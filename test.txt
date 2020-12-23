@@ -1,0 +1,641 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="zh" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>查看“妙蛙种子”的源代码 - 神奇宝贝百科，关于宝可梦的百科全书</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!0,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"zh","wgMonthNames":["","1月","2月","3月","4月","5月","6月","7月","8月","9月","10月","11月","12月"],"wgRequestId":"a40080ad53c1c7950ed107ad","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"妙蛙种子","wgTitle":"妙蛙种子","wgCurRevisionId":1854744,"wgRevisionId":0,"wgArticleId":116,"wgIsArticle":!1,"wgIsRedirect":!1,"wgAction":"edit","wgUserName":null,"wgUserGroups":["*"],"wgCategories":[],"wgPageContentLanguage":"zh","wgPageContentModel":"wikitext","wgRelevantPageName":"妙蛙种子","wgRelevantArticleId":116,"wgUserVariant":"zh","wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMFDisplayWikibaseDescriptions":{"search":!1,"nearby":!1,"watchlist":!1,
+"tagline":!1}};RLSTATE={"ext.gadget.staff":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","skins.vector.styles.legacy":"ready"};RLPAGEMODULES=["mediawiki.action.edit.collapsibleFooter","site","mediawiki.page.startup","mediawiki.page.ready","skins.vector.legacy.js","ext.gadget.edit0","ext.gadget.timer","ext.gadget.toggle","ext.gadget.countdown","ext.gadget.username","ext.lazyload"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="/load.php?lang=zh&amp;modules=skins.vector.styles.legacy&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/load.php?lang=zh&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/load.php?lang=zh&amp;modules=ext.gadget.staff&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/load.php?lang=zh&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0"/>
+<meta name="robots" content="noindex,nofollow"/>
+<link rel="shortcut icon" href="/favicon.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/opensearch_desc.php" title="神奇宝贝百科 (zh)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//wiki.52poke.com/api.php?action=rsd"/>
+<link rel="alternate" hreflang="zh" href="/zh/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90"/>
+<link rel="alternate" hreflang="zh-Hans" href="/zh-hans/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90"/>
+<link rel="alternate" hreflang="zh-Hant" href="/zh-hant/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90"/>
+<link rel="alternate" hreflang="x-default" href="/wiki/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90"/>
+<link rel="license" href="//creativecommons.org/licenses/by-nc-sa/3.0/deed.zh"/>
+<link rel="alternate" type="application/atom+xml" title="神奇宝贝百科的Atom feed" href="/index.php?title=Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9&amp;feed=atom"/>
+<link rel="canonical" href="https://wiki.52poke.com/wiki/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-妙蛙种子 rootpage-妙蛙种子 skin-vector action-edit skin-vector-legacy minerva--history-page-action-enabled">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><div id="localNotice" lang="zh" dir="ltr"><table class="roundy-80 bgl-神奇宝贝百科 bd-神奇宝贝百科 bw-1 at-c" style="width:100%; padding:5px; font-size:16px;">
+<tbody><tr>
+<td>
+<div id="scrollDiv" style="height:25px; overflow:hidden;">
+<ul><li><span class="td-冠之雪原"><b>《<a href="/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6_%E5%89%91%EF%BC%8F%E7%9B%BE_%E6%89%A9%E5%B1%95%E7%A5%A8" title="宝可梦 剑／盾 扩展票">宝可梦 剑／盾 扩展票‎‎</a>》第2弹《<a href="/wiki/%E5%86%A0%E4%B9%8B%E9%9B%AA%E5%8E%9F" title="冠之雪原">冠之雪原</a>》10月23日已经开放下载！</b></span></li>
+<li><span class="td-神奇宝贝百科"><b>欢迎来到神奇宝贝百科！</b></span>您可以注册一个符合<a href="/wiki/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%E7%99%BE%E7%A7%91:%E7%94%A8%E6%88%B7%E5%90%8D%E6%96%B9%E9%92%88" title="神奇宝贝百科:用户名方针">用户名方针</a>的账户来参与百科的建设！</li>
+<li><span class="td-神奇宝贝百科">编辑百科其实很容易！如果您在百科发现了一些内容出现缺失或错误，您可以直接注册一个账号来修改它们～</span></li>
+<li>如果搜索不到想要的内容，您可以阅读<a href="/wiki/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%E7%99%BE%E7%A7%91:%E6%B5%8F%E8%A7%88" title="神奇宝贝百科:浏览">神奇宝贝百科:浏览</a>了解如何搜寻到想要的内容。</li></ul>
+</div>
+</td></tr></tbody></table></div></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="zh">查看“妙蛙种子”的源代码</h1>
+	<div id="bodyContent" class="mw-body-content">
+		
+		<div id="contentSub">←<a href="/wiki/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90" title="妙蛙种子">妙蛙种子</a></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">跳到导航</a>
+		<a class="mw-jump-link" href="#searchInput">跳到搜索</a>
+		<div id="mw-content-text"><p>因为以下原因，您没有权限编辑本页：
+</p>
+<div class="permissions-errors">
+<p>您所请求的操作仅限于这些用户组的用户使用：<a href="/wiki/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%E7%99%BE%E7%A7%91:%E7%94%A8%E6%88%B7" class="mw-redirect" title="神奇宝贝百科:用户">用户</a>、确认用户
+</p>
+</div><hr />
+<p>您可以查看和复制此页面的源代码。
+</p><textarea readonly="" accesskey="," id="wpTextbox1" cols="80" rows="25" style="" class="mw-editfont-monospace" lang="zh" dir="ltr" name="wpTextbox1">{{未完成|《宝可梦欢乐祭》、《漫画版 宝可梦全书》和《皮卡丘大冒险 我爱PiPiPi》之内容}}
+{{PokémonPrevNext|type=草|type2=毒|prev=蕾冠王|prevnum=898|next=妙蛙草|nextnum=002}}
+{{寶可夢信息框
+|name=妙蛙种子
+|jname=フシギダネ
+|enname=Bulbasaur
+|species=种子
+|typen=2
+|type1=草
+|type2=毒
+|ability1=茂盛
+|abilityd=叶绿素
+|ndex=001
+|kdex=001
+|oldjdex=226
+|jdex=231
+|kdexs=080
+|gdexa=068
+|fbrow=001
+|obrow=014
+|opbrow=004
+|height=0.7
+|weight=6.9
+|egggroupn=2
+|egggroup1=怪兽
+|egggroup2=植物
+|expyield=64
+|expyieldgen5=64
+|gendercode=31
+|eggcycles=20
+|lv100exp=1,059,860
+|color=绿
+|catchrate=45
+|body=08
+|evhp=0
+|evat=0
+|evde=0
+|evsa=1
+|evsd=0
+|evsp=0
+|footnotes=
+}}
+{{N|妙蛙种子||フシギダネ|Bulbasaur}}是{{type|草}}和{{type|毒}}寶可夢，是[[关都地区]][[最初的伙伴]]之一。
+
+==基本介绍==
+===外貌===
+妙蛙种子是一种四足的宝可梦，外表类似蟾蜍。牠有着鲜红色的眼睛，白色的瞳孔和巩膜，头顶上长着一对凸起的耳朵。牠的鼻子短而钝，且有一张大嘴。当牠的嘴巴张开时，可以看到上颚的一对小而尖的牙齿。牠的皮肤呈蓝绿色，并附有深绿色的斑纹。牠每条粗腿的脚掌上都分出三趾，且末端都长有白色的小爪子。这只宝可梦最显著的特点就是牠背后那个鳞茎状的种子，牠与妙蛙种子之间存在着共生关系，从妙蛙种子出生起就与牠的身体一同生长了。
+
+虽然妙蛙种子通常用四条腿行走，但是妙蛙种子可以抬高牠的后腿。当牠进化成妙蛙草后，牠的种子会变成一个较大的蓓蕾，使牠几乎无法抬起后腿。
+
+====性别差异====
+妙蛙种子没有性别差异。
+
+===特殊能力===
+妙蛙种子背上的种子让牠可以学会大量的[[草属性]]招式。无论孢子还是气体，花瓣还是种子，都能从种子的尖端释放出来，而藤蔓和叶片则来自种子的底部（在[[精灵宝可梦特别篇]]中则是从牠的尖端）。
+
+妙蛙种子背上的种子可以吸收阳光，因此牠能够通过{{m|光合作用}}来恢复[[ＨＰ]]，也可以发射{{m|日光束}}。牠拥有强大的肺活量，甚至可以吸入[[鬼斯]]这样的气体宝可梦。
+
+妙蛙种子将要进化的时候，背上的种子尖端会显现出微弱的蓝光。每年都会有许多妙蛙种子聚集到一个神秘的花园中，在由[[妙蛙花]]主持的仪式中进化成[[妙蛙草]]。
+
+===性情===
+大部分妙蛙种子的性情十分温顺，在[[关都地区]]作为[[最初的伙伴]]由[[宝可梦培育家]]培育并提供给新人训练家。因此，妙蛙种子也被认为是一种罕见且优秀的宝可梦。妙蛙种子似乎对牠的朋友以及{{pkm|训练家}}十分忠诚。
+
+===栖息地===
+妙蛙种子生活在草原和森林中，如[[常青森林]]。因为妙蛙种子是关都地区的[[最初的伙伴]]，所以经常能在[[关都地区]]遇见训练家驯养的妙蛙种子。
+
+===饮食===
+{{main|宝可梦食物}}
+在出生后的一段时间里，妙蛙种子会从背上的种子里汲取营养茁壮成长。
+
+==动画中==
+[[File:小智 妙蛙种子.png|thumb|right|250px|动画中小智的妙蛙种子]]
+===重要登场===
+{{main|小智的妙蛙种子}}
+小智的妙蛙種子在{{EP|10}}中首次登场。尽管一开始对小智非常警惕，但是后来小智取得了牠的信任，然后牠就向小智发起挑战。小智使用皮卡丘与牠对战，最后成功收服了牠。與之後兩集收服的{{TP2|小智|小火龍}}和[[小智的傑尼龜|傑尼龜]]不同，妙蛙種子在小智的隊伍中一直待到{{EP|226}}。小智將妙蛙種子留在[[大木博士的研究所]]负责調解寶可夢們的紛爭。
+
+{{main|小遙的妙蛙花|小遙的妙蛙种子}}
+在小智在豐緣地區旅行时，{{an|小遙}}在{{AG|73}}中收服了屬於她自己的妙蛙種子。在小遙接下來在豐緣的旅行中，妙蛙種子一直在小遙的隊伍中，幫她贏得了豐緣地區[[華麗大型慶典]]。在{{AG|132}}中，陪同小智一起來關都地區繼續旅程的小遙把妙蛙種子留在大木博士的研究所以向小智的妙蛙種子學習。之後，小遙在城都地區旅行時又取回妙蛙種子。在旅行中，妙蛙種子最终進化成了妙蛙花。
+
+{{main|莎娜（动画）|莎娜的妙蛙种子}}
+在{{XY|38}}中作为莎娜的宝可梦出现。
+
+===主要登場===
+在{{EP|103}}中出現了一隻原屬於大都會市長的妙蛙種子。据说在這位市長的童年回忆中，他的妙蛙種子因為未能進化成[[妙蛙草]]而遭到遺棄。這隻妙蛙種子被前來尋找自己的小智一行人所救。在打敗市長和特殊部隊后，牠被喬伊交給當地寶可夢中心收養。
+
+在{{HS|14}}中，真新镇镇长的儿子小初来领取他的最初的伙伴，但是三只都被小智的肯泰罗给吓跑了，大木博士、小建、花子和小初出去寻找牠们。妙蛙种子是最后一个被发现的，牠被一群猴怪围堵在树上。最后，这只妙蛙种子被小初选为他的最初的伙伴。
+
+===其他登场===
+妙蛙种子首次出现在{{EP|1}}中，作为真新镇给新训练家的三只最初的伙伴之一。小智在刚开始的梦中梦到了妙蛙种子，这是他在杰尼龟之后梦到的第二只宝可梦。当然，当他到了大木博士的研究所时，妙蛙种子已经被比他先来的训练家拿走了。
+
+在{{EP|15}}中，在圣特安努号上见到了许多只妙蛙种子。
+
+在{{EP|28}}中，美容街上一个不知名训练家拥有一只妙蛙种子。
+
+在{{EP|56}}中一个不知名训练家拥有一只妙蛙种子。
+
+在{{EP|81}}中石英大会的闭幕式中，出现了一个不知名训练家的妙蛙种子。
+
+在{{EP|242}}的一张照片中，出现了一只妙蛙种子。
+
+在{{EP|50}}里有很多妙蛙种子出场过。
+
+在{{PG|1}} 中，妙蛙种子作为[[赤红]]的同行宝可梦登场。
+
+===图鉴信息===
+{{Animedexheader|关都}}
+{{Animedexbody|EP010|小智|這隻是妙蛙種子，他出生時便有一粒種子長在背上。那種子還會随著寶可夢長大，所以專家們仍未能肯定他是植物類還是動物類。}}
+{{Animedexfooter|动画首作|关都}}
+{{Animedexheader|卡洛斯}}
+{{Animedexbody|XY038|莎莉娜|妙蛙種子，種子寶可夢。出生後有一段期間會從背上的種子得到營養並且長大。|hk=奇異種子，種子小精靈。在牠出世後的一段時間，會由牠背上的種子獲得營養成長。}}
+{{Animedexfooter|XY|卡洛斯}}
+
+==漫画中==
+[[File:小智 妙蛙 ADV.png|thumb|right|240px|妙蛙种子时期的妙蛙]]
+===精靈寶可夢特別篇===
+===={{adv|小智}}的妙蛙种子====
+{{main|妙蛙}}
+
+====[[布拉塔諾博士]]的妙蛙种子====
+* {{PS|552}}等：与布拉塔諾博士在一起的[[关都地区]][[最初的伙伴]]之一。
+
+====其他====
+* {{PS|6}}：{{adv|大木博士}}旁白中的妙蛙种子。
+* {{PS|17}}：[[小蓝]]描述的宝可梦之一（黑影）。
+
+===小智与皮卡丘===
+{{main|小智的妙蛙种子（小智與皮卡丘）}}
+
+===电击皮卡丘===
+{{main|小智的妙蛙种子（電擊皮卡丘）}}
+
+==游戏中==
+===能力值===
+====种族值====
+{{种族值
+|type=草
+|type2=毒
+|HP=45
+|攻击=49
+|防御=49
+|特攻=65
+|特防=65
+|速度=45
+|特殊=65
+}}
+
+===图鉴介绍===
+{{图鉴
+|type=草 
+|type2=毒 
+|gen=1
+|redgreendex=牠出生的时候背上就有一个奇怪的种子。这种子跟随牠发芽成长。{{tt|*|うまれたときから せなかに しょくぶつの タネが あって すこしずつ おおきく そだつ。}}
+|bluedex=-{zh-hans:据说在它出生的时候，背上就种有一个会和它身体一同成长的神奇种子。;zh-hant:據說從牠出生的時候開始，背上就種著奇妙的種子，和牠的身體一起成長。}-
+|yellowdex=-{zh-hans:背上的种子里储存着营养，所以即使好几天不吃东西也可以活得好好的！;zh-hant:背上的種子裡存著很多營養，所以就算好幾天不吃東西也能活得好好的！}-
+|golddex=牠背上的种子充满了营养。那种子跟着牠的身体慢慢成长。
+|silverdex=在牠出生的时候背上就背着种子。当牠长大些，这种子也长大。
+|crystaldex=当牠年轻的时候，牠用储存在背上种子里的营养成长。
+|rsedex=-{zh-hans:会看到它在太阳底下睡午觉的样子。在沐浴了充足的阳光后，它背上的种子就会茁壮成长。;zh-hant:經常可見牠在太陽下睡午覺的樣子。在沐浴了充足的陽光之後，牠背上的種子就會成長茁壯。}-
+|firereddex=这只宝可梦出生的时候就有一个种子在牠背上。这种子缓缓成长。
+|leafgreendex=-{zh-hans:据说在它出生的时候，背上就种有一个会和它身体一同成长的神奇种子。;zh-hant:據說從牠出生的時候開始，背上就種著奇妙的種子，和牠的身體一起成長。}-
+|dpptdex=-{zh-hans:在出生后的一段时间里，它会从背上的种子里汲取营养茁壮成长。;zh-hant:在出生後的一段時間裡，牠會從背上的種子裡汲取營養成長茁壯。}-
+|heartgolddex=牠背上的种子充满了营养。那种子跟着牠的身体慢慢成长。
+|soulsilverdex=在牠出生的时候背上就背着种子。当牠长大些，这种子也长大。
+|bwdex=-{zh-hans:在出生后的一段时间里，它会从背上的种子里汲取营养茁壮成长。;zh-hant:在出生後的一段時間裡，牠會從背上的種子裡汲取營養成長茁壯。}-
+|b2w2dex=-{zh-hans:在出生后的一段时间里，它会从背上的种子里汲取营养茁壮成长。;zh-hant:在出生後的一段時間裡，牠會從背上的種子裡汲取營養成長茁壯。}-
+|xdex=-{zh-hans:据说在它出生的时候，背上就种有一个会和它身体一同成长的神奇种子。;zh-hant:據說從牠出生的時候開始，背上就種著奇妙的種子，和牠的身體一起成長。}-
+|ydex=-{zh-hans:在出生后的一段时间里，它会从背上的种子里汲取营养茁壮成长。;zh-hant:在出生後的一段時間裡，牠會從背上的種子裡汲取營養成長茁壯。}-
+|orasdex=-{zh-hans:会看到它在太阳底下睡午觉的样子。在沐浴了充足的阳光后，它背上的种子就会茁壮成长。;zh-hant:經常可見牠在太陽下睡午覺的樣子。在沐浴了充足的陽光之後，牠背上的種子就會成長茁壯。}-
+|letsgodex=-{zh-hans:背上的种子里储存着营养，所以即使好几天不吃东西也可以活得好好的！;zh-hant:背上的種子裡存著很多營養，所以就算好幾天不吃東西也能活得好好的！}-
+|Swdex=-{zh-hans:从出生的时候开始，背上就有一颗植物种子。这颗种子会渐渐地长大。;zh-hant:從出生的時候開始背上就有一顆植物種子。這顆種子會漸漸地長大。}-
+|Shdex=-{zh-hans:在出生后的一段时间内，它会吸收背上种子里储存着的营养成长。;zh-hant:在出生後的一段時間內，牠會吸收背上種子裡儲存著的營養成長。}-
+}}
+
+===获得方式===
+{{分布/header|草|毒}}
+{{分布/main|1|R|G|B|||[[真新镇]]|[[大木博士]][[礼物宝可梦|赠送]]{{tt|*|只有一只}}|[[最初的伙伴]]，3选1}}
+{{分布/main|1|Y|||||[[华蓝市]]|[[礼物宝可梦|赠送]]{{tt|*|只有一只}}|获得{{badge|藍色}}后，[[皮卡丘]]亲密度高时}}
+{{分布/main|1|Stad2|||||[[道馆馆主城]]|[[礼物宝可梦|赠送]]|战胜[[青绿]]后，8种中随机一只，{{i|木箱}}{{tt|*|表模式}}，{{i|桐木箱}}{{tt|*|里模式}}|}}
+{{分布/main|3|FR|LG||||[[真新镇]]|[[大木博士]][[礼物宝可梦|赠送]]{{tt|*|只有一只}}|[[最初的伙伴]]，3选1}}
+{{分布/main|4|HG|SS||||[[真新镇]]|[[大木博士]][[礼物宝可梦|赠送]]{{tt|*|只有一只}}|战胜[[赤红]]后，3选1}}
+{{分布/main|4|PP|||||[[伙伴公园#平原|平原]]||}}
+{{分布/main|6|X|Y||||[[密阿雷市]]|[[布拉塔諾博士]][[礼物宝可梦|赠送]]{{tt|*|只有一只}}|战胜[[布拉塔諾博士]]后，3选1}}
+{{分布/main|7|US|UM||||{{rt|2|阿罗拉}}{{sup/W|五}}|[[岛屿扫描]]|[[青草场地]]}}
+{{分布/main|7|LP|LE||||[[常青森林]]|野生|[[稀有宝可梦]]|row=2}}
+{{分布/main|7|LP|LE||||[[華藍市]]|[[礼物宝可梦|赠送]]{{tt|*|只有一只}}|收服30只宝可梦后|row=0}}
+{{分布/main|8|IA|||||[[马师傅武馆]]|[[蜜叶]][[礼物宝可梦|赠送]]{{tt|*|只有一只}}|{{Gameabbrevzh/8|SWSH}}，完成第一个修行后，在妙蛙种子和杰尼龟中二选一，[[超极巨化]]}}
+{{分布/end|草|毒}}
+
+====活动赠送宝可梦====
+{{活动赠送列表/header|草|毒}}
+{{活动赠送列表/main|Gotta Catch 'Em All的妙蛙种子|10|トウキョー&lt;br>オーサカ&lt;br>ナゴヤ&lt;br>フクオカ&lt;br>ヨコハマ&lt;br>サッポロ|{{GameIcon/3|R}}{{GameIcon/3|S}}{{GameIcon/3|E}}{{GameIcon/3|FR}}{{GameIcon/3|LG}}|日版|2006年2月11日~2006年2月27日|}}
+{{活动赠送列表/main|10周年的妙蛙种子|70|10 ANIV|{{GameIcon/3|R}}{{GameIcon/3|S}}{{GameIcon/3|E}}{{GameIcon/3|FR}}{{GameIcon/3|LG}}|美版|2006年2月25日~2006年7月23日|}}
+{{活动赠送列表/main|布莱恩特公园的妙蛙种子|70|10 ANIV|{{GameIcon/3|R}}{{GameIcon/3|S}}{{GameIcon/3|E}}{{GameIcon/3|FR}}{{GameIcon/3|LG}}|美版|2006年8月8日|}}
+{{活动赠送列表/main|PGL的妙蛙种子|10|{{主角}}|{{GameIcon/5|B}}{{GameIcon/5|W}}|日版、韩版|{{tt|2010年10月14日~2011年3月31日|日版}}&lt;br>{{tt|2011年5月11日~2012年5月11日|韩版}}|关都最初的伙伴3选1，[[连入|连入之森]]捕捉，{{male}}，{{a|叶绿素}}}}
+{{活动赠送列表/main|关都最初的宝可梦的妙蛙种子|1|{{主角}}|{{GameIcon/5|B2}}{{GameIcon/5|W2}}|日版|2012年9月1日~2012年9月30日|[[宝可梦的蛋|蛋]]活动赠送，[[点到为止]]，[[挡路]]，[[疯狂植物]]，[[气象球]]}}
+{{活动赠送列表/main|关都最初的宝可梦的妙蛙种子|1|{{主角}}|
+{{GameIcon/5|B}}{{GameIcon/5|W}}{{GameIcon/5|B2}}{{GameIcon/5|W2}}|韩版|2012年11月8日~2012年11月11日|[[宝可梦的蛋|蛋]]活动赠送，[[点到为止]]，[[挡路]]，[[疯狂植物]]，[[气象球]]}}
+{{活动赠送列表/main|宝可梦研究所的妙蛙种子|5|ポケモンラボ|{{GameIcon/6|X}}{{GameIcon/6|Y}}{{GameIcon/6|OR}}{{GameIcon/6|AS}}|日版|2015年7月8日~2015年11月31日|{{male}}，携带{{i|妙蛙花进化石}}}}
+{{活动赠送列表/main|WCS16的妙蛙种子|5|WORLDS16|{{GameIcon/6|OR}}{{GameIcon/6|AS}}|所有版本|2016年8月19日~2016年8月21日|{{a|叶绿素}}，{{m|庆祝}}，携带{{i|妙蛙花进化石}}}}
+{{活动赠送列表/footer|草|毒}}
+
+===携带物品===
+{{携带物品/header|草|毒}}
+{{携带物品/main|1|RGBY|苦涩的果实}}
+{{携带物品/main|6|活动赠送|妙蛙花进化石}}
+{{携带物品/end|草|毒}}
+
+===属性相性===
+&lt;div class="tabber">
+&lt;div class="tabbertab" title="一般">
+{{属性相性/header|type=草|type2=毒|sp=yes}}
+{{属性相性/entry|type=草|type2=毒|sp=none
+|一般=1|格斗=0.5|飞行=2|毒=1|地面=1|岩石=1|虫=1|幽灵=1|钢=1|火=2|水=0.5|草=0.25|电=0.5|超能力=2|冰=2|龙=1|恶=1|妖精=
+0.5}}
+{{属性相性/entry|type=草|type2=毒|spg=1
+|一般=1|格斗=0.5|飞行=2|毒=1|地面=1|岩石=1|虫=4|幽灵=1|钢=|火=2|水=0.5|草=0.25|电=0.5|超能力=2|冰=2|龙=1|恶=|妖精=
+}}
+|}
+&lt;/div>
+&lt;div class="tabbertab" title="反转对战">
+{{属性相性/header|type=草|type2=毒}}
+{{属性相性/entry|type=草|type2=毒
+|一般=1|格斗=2|飞行=0.5|毒=1|地面=1|岩石=1|虫=1|幽灵=1|钢=1|火=0.5|水=2|草=4|电=2|超能力=0.5|冰=0.5|龙=1|恶=1|妖精=2
+}}
+|}
+&lt;/div>
+&lt;/div>
+
+===可学会招式表===
+=====可学会的招式=====
+{{learnlist/levelh|妙蛙种子|草|毒|8|1}}
+{{learnlist/level8|—|撞击|一般|物理|40|100|35}}
+{{learnlist/level8|—|叫声|一般|变化|&amp;mdash;|100|40}}
+{{learnlist/level8|3|藤鞭|草|物理|45|100|25||'''}}
+{{learnlist/level8|6|生长|一般|变化|&amp;mdash;|&amp;mdash;|20}}
+{{learnlist/level8|9|寄生种子|草|变化|&amp;mdash;|90|10}}
+{{learnlist/level8|12|飞叶快刀|草|物理|55|95|25||'''}}
+{{learnlist/level8|15|催眠粉|草|变化|&amp;mdash;|75|15}}
+{{learnlist/level8|15|毒粉|毒|变化|&amp;mdash;|75|35}}
+{{learnlist/level8|18|种子炸弹|草|物理|80|100|15||'''}}
+{{learnlist/level8|21|猛撞|一般|物理|90|85|20}}
+{{learnlist/level8|24|甜甜香气|一般|变化|&amp;mdash;|100|20}}
+{{learnlist/level8|27|光合作用|草|变化|&amp;mdash;|&amp;mdash;|5}}
+{{learnlist/level8|30|烦恼种子|草|变化|&amp;mdash;|100|10}}
+{{learnlist/level8|33|舍身冲撞|一般|物理|120|100|15}}
+{{learnlist/level8|36|日光束|草|特殊|120|100|10||'''}}
+{{learnlist/levelf|妙蛙种子|草|毒|8|1}}
+
+=====能使用的招式学习器=====
+{{learnlist/tmh|妙蛙种子|草|毒|8|1}}
+{{learnlist/tm8|招式学习器１０|魔法叶|草|特殊|60|&amp;mdash;|20||'''}}
+{{learnlist/tm8|招式学习器１１|日光束|草|特殊|120|100|10||'''}}
+{{learnlist/tm8|招式学习器１７|光墙|超能力|变化|&amp;mdash;|&amp;mdash;|30}}
+{{learnlist/tm8|招式学习器１９|神秘守护|一般|变化|&amp;mdash;|&amp;mdash;|25}}
+{{learnlist/tm8|招式学习器２１|睡觉|超能力|变化|&amp;mdash;|&amp;mdash;|10}}
+{{learnlist/tm8|招式学习器２４|打鼾|一般|特殊|50|100|15}}
+{{learnlist/tm8|招式学习器２５|守住|一般|变化|&amp;mdash;|&amp;mdash;|10}}
+{{learnlist/tm8|招式学习器２８|终极吸取|草|特殊|75|100|10||'''}}
+{{learnlist/tm8|招式学习器２９|撒娇|妖精|变化|&amp;mdash;|100|20}}
+{{learnlist/tm8|招式学习器３１|迷人|一般|变化|&amp;mdash;|100|15}}
+{{learnlist/tm8|招式学习器３４|大晴天|火|变化|&amp;mdash;|&amp;mdash;|5}}
+{{learnlist/tm8|招式学习器３９|硬撑|一般|物理|70|100|20}}
+{{learnlist/tm8|招式学习器４１|帮助|一般|变化|&amp;mdash;|&amp;mdash;|20}}
+{{learnlist/tm8|招式学习器４６|气象球|一般|特殊|50|100|10}}
+{{learnlist/tm8|招式学习器５０|种子机关枪|草|物理|25|100|30||'''}}
+{{learnlist/tm8|招式学习器７４|毒液冲击|毒|特殊|65|100|10||'''}}
+{{learnlist/tm8|招式学习器７６|轮唱|一般|特殊|60|100|15}}
+{{learnlist/tm8|招式学习器８８|青草场地|草|变化|&amp;mdash;|&amp;mdash;|10}}
+{{learnlist/tm8|招式学习器９４|点到为止|一般|物理|40|100|40}}
+{{learnlist/tm8|招式记录００|剑舞|一般|变化|&amp;mdash;|&amp;mdash;|20}}
+{{learnlist/tm8|招式记录０１|泰山压顶|一般|物理|85|100|15}}
+{{learnlist/tm8|招式记录１７|瞬间失忆|超能力|变化|&amp;mdash;|&amp;mdash;|20}}
+{{learnlist/tm8|招式记录２０|替身|一般|变化|&amp;mdash;|&amp;mdash;|10}}
+{{learnlist/tm8|招式记录２２|污泥炸弹|毒|特殊|90|100|10||'''}}
+{{learnlist/tm8|招式记录２６|挺住|一般|变化|&amp;mdash;|&amp;mdash;|10}}
+{{learnlist/tm8|招式记录２７|梦话|一般|变化|&amp;mdash;|&amp;mdash;|10}}
+{{learnlist/tm8|招式记录５９|种子炸弹|草|物理|80|100|15||'''}}
+{{learnlist/tm8|招式记录６５|能量球|草|特殊|90|100|10||'''}}
+{{learnlist/tm8|招式记录７１|飞叶风暴|草|特殊|130|90|5||'''}}
+{{learnlist/tm8|招式记录７２|强力鞭打|草|物理|120|85|10||'''}}
+{{learnlist/tm8|招式记录７７|打草结|草|特殊|&amp;mdash;|100|20||'''}}
+{{learnlist/tm8|招式记录８５|自我激励|一般|变化|&amp;mdash;|&amp;mdash;|30}}
+{{learnlist/tmf|妙蛙种子|草|毒|8|1}}
+
+=====蛋招式=====
+{{learnlist/breedh|妙蛙种子|草|毒|8|2}}
+{{learnlist/breed8|{{MSP|007|杰尼龟}}{{MSP|008|卡咪龟}}{{MSP|009|水箭龟}}{{MSP|713|冰岩怪}}|火箭头锤|一般|物理|130|100|10}}
+{{learnlist/breed8|{{MSP|003|妙蛙花}}{{MSP|043|走路草}}{{MSP|044|臭臭花}}{{MSP|045|霸王花}}{{MSP|182|美丽花}}{{MSP|315|毒蔷薇}}{{MSP|407|罗丝雷朵}}{{MSP|421|樱花儿}}{{MSP|556|沙铃仙人掌}}{{MSP|764|花疗环环}}|花瓣舞|草|特殊|120|100|10||'''}}
+{{learnlist/breed8|{{MSP|079|呆呆兽}}{{MSP|079G|呆呆兽}}{{MSP|080|呆壳兽}}{{MSP|080G|呆壳兽}}{{MSP|199|呆呆王}}{{MSP|199G|呆呆王}}{{MSP|597|种子铁球}}{{MSP|598|坚果哑铃}}{{MSP|708|小木灵}}{{MSP|709|朽木妖}}{{MSP|712|冰宝}}{{MSP|713|冰岩怪}}{{MSP|842|丰蜜龙}}|诅咒|幽灵|变化|&amp;mdash;|&amp;mdash;|10}}
+{{learnlist/breed8|{{MSP|114|蔓藤怪}}{{MSP|315|毒蔷薇}}{{MSP|407|罗丝雷朵}}{{MSP|459|雪笠怪}}{{MSP|460|暴雪王}}{{MSP|465|巨蔓藤}}{{MSP|556|沙铃仙人掌}}{{MSP|590|哎呀球菇}}{{MSP|591|败露球菇}}{{MSP|597|种子铁球}}{{MSP|598|坚果哑铃}}{{MSP|708|小木灵}}{{MSP|709|朽木妖}}{{MSP|753|伪螳草}}{{MSP|754|兰螳花}}{{MSP|755|睡睡菇}}{{MSP|756|灯罩夜菇}}|扎根|草|变化|&amp;mdash;|&amp;mdash;|20}}
+{{learnlist/breed8|{{MSP|270|莲叶童子}}{{MSP|271|莲帽小童}}{{MSP|272|乐天河童}}{{MSP|273|橡实果}}{{MSP|274|长鼻叶}}{{MSP|275|狡猾天狗}}{{MSP|698|冰雪龙}}{{MSP|699|冰雪巨龙}}|自然之力|一般|变化|&amp;mdash;|&amp;mdash;|20}}
+{{learnlist/breed8|{{MSP|032|尼多朗}}{{MSP|033|尼多力诺}}{{MSP|034|尼多王}}{{MSP|043|走路草}}{{MSP|044|臭臭花}}{{MSP|045|霸王花}}{{MSP|182|美丽花}}{{MSP|315|毒蔷薇}}{{MSP|407|罗丝雷朵}}{{MSP|590|哎呀球菇}}{{MSP|591|败露球菇}}{{MSP|757|夜盗火蜥}}|剧毒|毒|变化|&amp;mdash;|90|10}}
+{{learnlist/breedf|妙蛙种子|草|毒|8|2}}
+
+=====教授招式=====
+{{learnlist/tutorh|妙蛙种子|草|毒|8|2}}
+{{learnlist/tutor8|草之誓约|草|特殊|80|100|10||'''|yes}}
+{{learnlist/tutor8|青草滑梯|草|物理|70|100|20||'''||yes}}
+{{learnlist/tutorf|妙蛙种子|草|毒|8|2}}
+
+===旁支系列===
+{{main|妙蛙种子（旁支系列）}}
+
+===进化===
+{{进化框
+|family=Normal
+|sprite1=001Bulbasaur 
+|name1=妙蛙种子
+|type1-1=草
+|type2-1=毒
+|evotype1=Level
+|level1=16
+|sprite2=002Ivysaur 
+|name2=妙蛙草
+|type1-2=草
+|type2-2=毒
+|evotype2=Level
+|level2=32
+|sprite3=003Venusaur 
+|name3=妙蛙花
+|type1-3=草
+|type2-3=毒
+}}
+
+===形象===
+{{形象
+|type=草
+|type2=毒
+|ndex=001
+|formes7=1-1-1
+}}
+
+==细节==
+* 妙蛙种子的设计者为[[西田敦子]]。
+* 妙蛙种子和牠的进化形与[[向日种子]]共同分类为种子宝可梦。
+* 妙蛙种子是第一只未进化的双属性[[最初的伙伴]]。
+* 妙蛙种子是唯一一只可以通过[[蛋招式]]来学习{{m|花瓣舞}}的宝可梦。
+* 由于[[全球贸易中心（系统）|全球贸易中心]]交换系统中有探测器防止交换綽號不文明的宝可梦，英文名为“Bulbasaur”的妙蛙种子除非起别的綽號，否则不能在{{game|BW}}全球贸易中心交换。
+
+==来源==
+*妙蛙种子基于人们一般印象中的四足怪兽，此外也融入了现实中的一些动植物的特征：
+**牠大又圆的吻部、宽宽的嘴部、大大的眼睛、斑状的皮肤和以四足来行走的特征类似于某些两栖动物，如{{wp|大蟾蜍}}。牠的“耳朵”实际上是没有洞的，类似于许多蛙类动物眼睛后的腺体。
+**牠背上绿色的{{wp|鳞茎}}状种子可能源于{{wp|百合}}、{{wp|大蒜}}或{{wp|洋葱}}。
+*妙蛙种子的形象看起来像一种二叠纪时期的食草性似哺乳爬行动物{{wp|二齿兽}}。
+
+==名字==
+{{名字/header|草|毒|origin=yes}}
+{{名字/entry|ja|フシギダネ|roma=Fushigidane|來自 {{lang|ja|不思議}} ''fushigi''（奇怪）和 {{lang|ja|種}} ''tane''（{{wp|種子}}）。与 不思議だね （真是不可思议呢）同音。}}
+{{名字/entry|zh_nin|妙蛙種子|simp=妙蛙种子|來自「奇妙的」、「{{wp|無尾目|蛙}}」和「種子」。|row_lang=6}}
+{{名字/entry|cn|妙蛙种子|來自「奇妙的」、「蛙」和「種子」。|row_lang=0}}
+{{名字/entry|tw|妙蛙種子|來自「奇妙的」、「蛙」和「種子」。|row_lang=0}}
+{{名字/entry|hk|妙蛙種子|tt=有線|來自「奇妙的」、「蛙」和「種子」。|row_lang=0|row_cbs=3}}
+{{名字/entry|hk|奇異種子|tt=群英、曼迪|來自「奇異的」和「種子」。|row=0}}
+{{名字/entry|hk|奇異種籽|tt=羚邦|來自「奇異的」和「種籽」。|row=0}}
+{{名字/entry|en|Bulbasaur|來自 ''bulb''（{{wp|鱗莖}}）和希臘文 ''saur''（{{wp|蜥蜴}}）。}}
+{{名字/entry|fr|Bulbizarre|来自 ''bulbe''（鱗莖）和 ''bizarre''（奇異的）。}}
+{{名字/entry|de|Bisasam|来自 ''bizarr''（奇異的）和 ''Samen''（種子）。}}
+{{名字/entry|it|Bulbasaur|跟英文名一樣。}}
+{{名字/entry|es|Bulbasaur|跟英文名一樣。}}
+{{名字/entry|pt|Bulbassauro|來自英文名和 ''dinossauro''（{{wp|恐龍}}）。}}
+{{名字/entry|ko|이상해씨|roma=Isanghaessi|來自 {{lang|ko|이상하다}} ''isanghada''（奇異的）和 {{lang|ko|씨}} ''ssi''（種子）。}}
+{{名字/entry|he|בולבוזאור|roma=Bulbosaur|來自英文名的音譯。}}
+{{名字/entry|hi|बल्बसौर|roma=Balbasaur|來自英文名的音譯。}}
+{{名字/entry|ru|Бульбазавр|roma=Bulbazavr|來自英文名的音譯。}}
+{{名字/entry|sr|Булбасаур|roma=Bulbasaur|來自英文名的音譯。}}
+{{名字/entry|th|ฟุชิกิดาเนะ|roma=Fushigidane|來自日文名的音譯。|end=yes}}&lt;br>
+
+{{最初的伙伴|草|毒}}
+{{PokémonPrevNext|type=草|type2=毒|prev=蕾冠王|prevnum=898|next=妙蛙草|nextnum=002}}
+[[de:Bisasam]]
+[[en:Bulbasaur (Pokémon)]]
+[[es:Bulbasaur]]
+[[fr:Bulbizarre]]
+[[it:Bulbasaur]]
+[[ja:フシギダネ]]
+</textarea><div class="templatesUsed"><div class="mw-templatesUsedExplanation"><p>该页面使用的模板：
+</p></div><ul>
+<li><a href="/wiki/Template:(" title="Template:(">Template:(</a>（<a href="/index.php?title=Template:(&amp;action=edit" title="Template:(">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:)" title="Template:)">Template:)</a>（<a href="/index.php?title=Template:)&amp;action=edit" title="Template:)">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%3D" title="Template:=">Template:=</a>（<a href="/index.php?title=Template:%3D&amp;action=edit" title="Template:=">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:A" title="Template:A">Template:A</a>（<a href="/index.php?title=Template:A&amp;action=edit" title="Template:A">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:AG" title="Template:AG">Template:AG</a>（<a href="/index.php?title=Template:AG&amp;action=edit" title="Template:AG">查看源代码</a>）（受半保护）</li><li><a href="/wiki/Template:Adv" title="Template:Adv">Template:Adv</a>（<a href="/index.php?title=Template:Adv&amp;action=edit" title="Template:Adv">查看源代码</a>）（受半保护）</li><li><a href="/wiki/Template:An" title="Template:An">Template:An</a>（<a href="/index.php?title=Template:An&amp;action=edit" title="Template:An">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Animedexbody" title="Template:Animedexbody">Template:Animedexbody</a>（<a href="/index.php?title=Template:Animedexbody&amp;action=edit" title="Template:Animedexbody">查看源代码</a>）</li><li><a href="/wiki/Template:Animedexfooter" title="Template:Animedexfooter">Template:Animedexfooter</a>（<a href="/index.php?title=Template:Animedexfooter&amp;action=edit" title="Template:Animedexfooter">查看源代码</a>）</li><li><a href="/wiki/Template:Animedexheader" title="Template:Animedexheader">Template:Animedexheader</a>（<a href="/index.php?title=Template:Animedexheader&amp;action=edit" title="Template:Animedexheader">查看源代码</a>）</li><li><a href="/wiki/Template:Badge" title="Template:Badge">Template:Badge</a>（<a href="/index.php?title=Template:Badge&amp;action=edit" title="Template:Badge">查看源代码</a>）</li><li><a href="/wiki/Template:Bag" title="Template:Bag">Template:Bag</a>（<a href="/index.php?title=Template:Bag&amp;action=edit" title="Template:Bag">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Color" title="Template:Color">Template:Color</a>（<a href="/index.php?title=Template:Color&amp;action=edit" title="Template:Color">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:E" title="Template:E">Template:E</a>（<a href="/index.php?title=Template:E&amp;action=edit" title="Template:E">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:EP" title="Template:EP">Template:EP</a>（<a href="/index.php?title=Template:EP&amp;action=edit" title="Template:EP">查看源代码</a>）（受半保护）</li><li><a href="/wiki/Template:Frac" title="Template:Frac">Template:Frac</a>（<a href="/index.php?title=Template:Frac&amp;action=edit" title="Template:Frac">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Game" title="Template:Game">Template:Game</a>（<a href="/index.php?title=Template:Game&amp;action=edit" title="Template:Game">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Game2" title="Template:Game2">Template:Game2</a>（<a href="/index.php?title=Template:Game2&amp;action=edit" title="Template:Game2">查看源代码</a>）</li><li><a href="/wiki/Template:GameIcon/3" title="Template:GameIcon/3">Template:GameIcon/3</a>（<a href="/index.php?title=Template:GameIcon/3&amp;action=edit" title="Template:GameIcon/3">查看源代码</a>）</li><li><a href="/wiki/Template:GameIcon/5" title="Template:GameIcon/5">Template:GameIcon/5</a>（<a href="/index.php?title=Template:GameIcon/5&amp;action=edit" title="Template:GameIcon/5">查看源代码</a>）</li><li><a href="/wiki/Template:GameIcon/6" title="Template:GameIcon/6">Template:GameIcon/6</a>（<a href="/index.php?title=Template:GameIcon/6&amp;action=edit" title="Template:GameIcon/6">查看源代码</a>）</li><li><a href="/wiki/Template:GameIconzh/1" title="Template:GameIconzh/1">Template:GameIconzh/1</a>（<a href="/index.php?title=Template:GameIconzh/1&amp;action=edit" title="Template:GameIconzh/1">查看源代码</a>）</li><li><a href="/wiki/Template:GameIconzh/3" title="Template:GameIconzh/3">Template:GameIconzh/3</a>（<a href="/index.php?title=Template:GameIconzh/3&amp;action=edit" title="Template:GameIconzh/3">查看源代码</a>）</li><li><a href="/wiki/Template:GameIconzh/4" title="Template:GameIconzh/4">Template:GameIconzh/4</a>（<a href="/index.php?title=Template:GameIconzh/4&amp;action=edit" title="Template:GameIconzh/4">查看源代码</a>）</li><li><a href="/wiki/Template:GameIconzh/6" title="Template:GameIconzh/6">Template:GameIconzh/6</a>（<a href="/index.php?title=Template:GameIconzh/6&amp;action=edit" title="Template:GameIconzh/6">查看源代码</a>）</li><li><a href="/wiki/Template:GameIconzh/7" title="Template:GameIconzh/7">Template:GameIconzh/7</a>（<a href="/index.php?title=Template:GameIconzh/7&amp;action=edit" title="Template:GameIconzh/7">查看源代码</a>）</li><li><a href="/wiki/Template:GameIconzh/8" title="Template:GameIconzh/8">Template:GameIconzh/8</a>（<a href="/index.php?title=Template:GameIconzh/8&amp;action=edit" title="Template:GameIconzh/8">查看源代码</a>）</li><li><a href="/wiki/Template:Gameabbrevzh/8" title="Template:Gameabbrevzh/8">Template:Gameabbrevzh/8</a>（<a href="/index.php?title=Template:Gameabbrevzh/8&amp;action=edit" title="Template:Gameabbrevzh/8">查看源代码</a>）</li><li><a href="/wiki/Template:Gamep" title="Template:Gamep">Template:Gamep</a>（<a href="/index.php?title=Template:Gamep&amp;action=edit" title="Template:Gamep">查看源代码</a>）</li><li><a href="/wiki/Template:Gen" title="Template:Gen">Template:Gen</a>（<a href="/index.php?title=Template:Gen&amp;action=edit" title="Template:Gen">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:HS" title="Template:HS">Template:HS</a>（<a href="/index.php?title=Template:HS&amp;action=edit" title="Template:HS">查看源代码</a>）</li><li><a href="/wiki/Template:I" title="Template:I">Template:I</a>（<a href="/index.php?title=Template:I&amp;action=edit" title="Template:I">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Lang" title="Template:Lang">Template:Lang</a>（<a href="/index.php?title=Template:Lang&amp;action=edit" title="Template:Lang">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Learnlist/breed8" title="Template:Learnlist/breed8">Template:Learnlist/breed8</a>（<a href="/index.php?title=Template:Learnlist/breed8&amp;action=edit" title="Template:Learnlist/breed8">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/breedf" title="Template:Learnlist/breedf">Template:Learnlist/breedf</a>（<a href="/index.php?title=Template:Learnlist/breedf&amp;action=edit" title="Template:Learnlist/breedf">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/breedh" title="Template:Learnlist/breedh">Template:Learnlist/breedh</a>（<a href="/index.php?title=Template:Learnlist/breedh&amp;action=edit" title="Template:Learnlist/breedh">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/level8" title="Template:Learnlist/level8">Template:Learnlist/level8</a>（<a href="/index.php?title=Template:Learnlist/level8&amp;action=edit" title="Template:Learnlist/level8">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/levelf" title="Template:Learnlist/levelf">Template:Learnlist/levelf</a>（<a href="/index.php?title=Template:Learnlist/levelf&amp;action=edit" title="Template:Learnlist/levelf">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/levelh" title="Template:Learnlist/levelh">Template:Learnlist/levelh</a>（<a href="/index.php?title=Template:Learnlist/levelh&amp;action=edit" title="Template:Learnlist/levelh">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/tm8" title="Template:Learnlist/tm8">Template:Learnlist/tm8</a>（<a href="/index.php?title=Template:Learnlist/tm8&amp;action=edit" title="Template:Learnlist/tm8">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/tmf" title="Template:Learnlist/tmf">Template:Learnlist/tmf</a>（<a href="/index.php?title=Template:Learnlist/tmf&amp;action=edit" title="Template:Learnlist/tmf">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/tmh" title="Template:Learnlist/tmh">Template:Learnlist/tmh</a>（<a href="/index.php?title=Template:Learnlist/tmh&amp;action=edit" title="Template:Learnlist/tmh">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/tutor8" title="Template:Learnlist/tutor8">Template:Learnlist/tutor8</a>（<a href="/index.php?title=Template:Learnlist/tutor8&amp;action=edit" title="Template:Learnlist/tutor8">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/tutorf" title="Template:Learnlist/tutorf">Template:Learnlist/tutorf</a>（<a href="/index.php?title=Template:Learnlist/tutorf&amp;action=edit" title="Template:Learnlist/tutorf">查看源代码</a>）</li><li><a href="/wiki/Template:Learnlist/tutorh" title="Template:Learnlist/tutorh">Template:Learnlist/tutorh</a>（<a href="/index.php?title=Template:Learnlist/tutorh&amp;action=edit" title="Template:Learnlist/tutorh">查看源代码</a>）</li><li><a href="/wiki/Template:M" title="Template:M">Template:M</a>（<a href="/index.php?title=Template:M&amp;action=edit" title="Template:M">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:MSP" title="Template:MSP">Template:MSP</a>（<a href="/index.php?title=Template:MSP&amp;action=edit" title="Template:MSP">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Main" title="Template:Main">Template:Main</a>（<a href="/index.php?title=Template:Main&amp;action=edit" title="Template:Main">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Male" title="Template:Male">Template:Male</a>（<a href="/index.php?title=Template:Male&amp;action=edit" title="Template:Male">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:N" title="Template:N">Template:N</a>（<a href="/index.php?title=Template:N&amp;action=edit" title="Template:N">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:PG" title="Template:PG">Template:PG</a>（<a href="/index.php?title=Template:PG&amp;action=edit" title="Template:PG">查看源代码</a>）</li><li><a href="/wiki/Template:PS" title="Template:PS">Template:PS</a>（<a href="/index.php?title=Template:PS&amp;action=edit" title="Template:PS">查看源代码</a>）（受半保护）</li><li><a href="/wiki/Template:Pkm" title="Template:Pkm">Template:Pkm</a>（<a href="/index.php?title=Template:Pkm&amp;action=edit" title="Template:Pkm">查看源代码</a>）</li><li><a href="/wiki/Template:Pok%C3%A9monPrevNext" title="Template:PokémonPrevNext">Template:PokémonPrevNext</a>（<a href="/index.php?title=Template:Pok%C3%A9monPrevNext&amp;action=edit" title="Template:PokémonPrevNext">查看源代码</a>）</li><li><a href="/wiki/Template:Rt" title="Template:Rt">Template:Rt</a>（<a href="/index.php?title=Template:Rt&amp;action=edit" title="Template:Rt">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Sup/2" title="Template:Sup/2">Template:Sup/2</a>（<a href="/index.php?title=Template:Sup/2&amp;action=edit" title="Template:Sup/2">查看源代码</a>）</li><li><a href="/wiki/Template:Sup/4" title="Template:Sup/4">Template:Sup/4</a>（<a href="/index.php?title=Template:Sup/4&amp;action=edit" title="Template:Sup/4">查看源代码</a>）</li><li><a href="/wiki/Template:Sup/5" title="Template:Sup/5">Template:Sup/5</a>（<a href="/index.php?title=Template:Sup/5&amp;action=edit" title="Template:Sup/5">查看源代码</a>）</li><li><a href="/wiki/Template:Sup/7" title="Template:Sup/7">Template:Sup/7</a>（<a href="/index.php?title=Template:Sup/7&amp;action=edit" title="Template:Sup/7">查看源代码</a>）</li><li><a href="/wiki/Template:Sup/W" title="Template:Sup/W">Template:Sup/W</a>（<a href="/index.php?title=Template:Sup/W&amp;action=edit" title="Template:Sup/W">查看源代码</a>）</li><li><a href="/wiki/Template:TP2" title="Template:TP2">Template:TP2</a>（<a href="/index.php?title=Template:TP2&amp;action=edit" title="Template:TP2">查看源代码</a>）</li><li><a href="/wiki/Template:Tt" title="Template:Tt">Template:Tt</a>（<a href="/index.php?title=Template:Tt&amp;action=edit" title="Template:Tt">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Type" title="Template:Type">Template:Type</a>（<a href="/index.php?title=Template:Type&amp;action=edit" title="Template:Type">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Typelink" title="Template:Typelink">Template:Typelink</a>（<a href="/index.php?title=Template:Typelink&amp;action=edit" title="Template:Typelink">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:Typelink/style.css" title="Template:Typelink/style.css">Template:Typelink/style.css</a>（<a href="/index.php?title=Template:Typelink/style.css&amp;action=edit" title="Template:Typelink/style.css">查看源代码</a>）</li><li><a href="/wiki/Template:Wp" title="Template:Wp">Template:Wp</a>（<a href="/index.php?title=Template:Wp&amp;action=edit" title="Template:Wp">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:XY" title="Template:XY">Template:XY</a>（<a href="/index.php?title=Template:XY&amp;action=edit" title="Template:XY">查看源代码</a>）（受半保护）</li><li><a href="/wiki/Template:%E4%B8%BB%E8%A7%92" title="Template:主角">Template:主角</a>（<a href="/index.php?title=Template:%E4%B8%BB%E8%A7%92&amp;action=edit" title="Template:主角">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%82%AC%E7%9C%A0%E7%B2%89" title="Template:催眠粉">Template:催眠粉</a>（<a href="/index.php?title=Template:%E5%82%AC%E7%9C%A0%E7%B2%89&amp;action=edit" title="Template:催眠粉">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%85%89%E5%90%88%E4%BD%9C%E7%94%A8" title="Template:光合作用">Template:光合作用</a>（<a href="/index.php?title=Template:%E5%85%89%E5%90%88%E4%BD%9C%E7%94%A8&amp;action=edit" title="Template:光合作用">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%85%89%E5%A2%99" title="Template:光墙">Template:光墙</a>（<a href="/index.php?title=Template:%E5%85%89%E5%A2%99&amp;action=edit" title="Template:光墙">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%88%86%E5%B8%83/end" title="Template:分布/end">Template:分布/end</a>（<a href="/index.php?title=Template:%E5%88%86%E5%B8%83/end&amp;action=edit" title="Template:分布/end">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%88%86%E5%B8%83/header" title="Template:分布/header">Template:分布/header</a>（<a href="/index.php?title=Template:%E5%88%86%E5%B8%83/header&amp;action=edit" title="Template:分布/header">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%88%86%E5%B8%83/main" title="Template:分布/main">Template:分布/main</a>（<a href="/index.php?title=Template:%E5%88%86%E5%B8%83/main&amp;action=edit" title="Template:分布/main">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%89%91%E8%88%9E" title="Template:剑舞">Template:剑舞</a>（<a href="/index.php?title=Template:%E5%89%91%E8%88%9E&amp;action=edit" title="Template:剑舞">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%89%A7%E6%AF%92" title="Template:剧毒">Template:剧毒</a>（<a href="/index.php?title=Template:%E5%89%A7%E6%AF%92&amp;action=edit" title="Template:剧毒">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%8F%AB%E5%A3%B0" title="Template:叫声">Template:叫声</a>（<a href="/index.php?title=Template:%E5%8F%AB%E5%A3%B0&amp;action=edit" title="Template:叫声">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%90%8D%E5%AD%97/entry" title="Template:名字/entry">Template:名字/entry</a>（<a href="/index.php?title=Template:%E5%90%8D%E5%AD%97/entry&amp;action=edit" title="Template:名字/entry">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%90%8D%E5%AD%97/header" title="Template:名字/header">Template:名字/header</a>（<a href="/index.php?title=Template:%E5%90%8D%E5%AD%97/header&amp;action=edit" title="Template:名字/header">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%9B%BE%E9%89%B4" title="Template:图鉴">Template:图鉴</a>（<a href="/index.php?title=Template:%E5%9B%BE%E9%89%B4&amp;action=edit" title="Template:图鉴">查看源代码</a>）（受半保护）</li><li><a href="/wiki/Template:%E5%A4%A7%E6%99%B4%E5%A4%A9" title="Template:大晴天">Template:大晴天</a>（<a href="/index.php?title=Template:%E5%A4%A7%E6%99%B4%E5%A4%A9&amp;action=edit" title="Template:大晴天">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%AE%88%E4%BD%8F" title="Template:守住">Template:守住</a>（<a href="/index.php?title=Template:%E5%AE%88%E4%BD%8F&amp;action=edit" title="Template:守住">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%AF%84%E7%94%9F%E7%A7%8D%E5%AD%90" title="Template:寄生种子">Template:寄生种子</a>（<a href="/index.php?title=Template:%E5%AF%84%E7%94%9F%E7%A7%8D%E5%AD%90&amp;action=edit" title="Template:寄生种子">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%AF%B6%E5%8F%AF%E5%A4%A2%E4%BF%A1%E6%81%AF%E6%A1%86" title="Template:寶可夢信息框">Template:寶可夢信息框</a>（<a href="/index.php?title=Template:%E5%AF%B6%E5%8F%AF%E5%A4%A2%E4%BF%A1%E6%81%AF%E6%A1%86&amp;action=edit" title="Template:寶可夢信息框">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%B1%9E%E6%80%A7%E7%9B%B8%E6%80%A7/entry" title="Template:属性相性/entry">Template:属性相性/entry</a>（<a href="/index.php?title=Template:%E5%B1%9E%E6%80%A7%E7%9B%B8%E6%80%A7/entry&amp;action=edit" title="Template:属性相性/entry">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%B1%9E%E6%80%A7%E7%9B%B8%E6%80%A7/header" title="Template:属性相性/header">Template:属性相性/header</a>（<a href="/index.php?title=Template:%E5%B1%9E%E6%80%A7%E7%9B%B8%E6%80%A7/header&amp;action=edit" title="Template:属性相性/header">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%B8%AE%E5%8A%A9" title="Template:帮助">Template:帮助</a>（<a href="/index.php?title=Template:%E5%B8%AE%E5%8A%A9&amp;action=edit" title="Template:帮助">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%BC%BA%E5%8A%9B%E9%9E%AD%E6%89%93" title="Template:强力鞭打">Template:强力鞭打</a>（<a href="/index.php?title=Template:%E5%BC%BA%E5%8A%9B%E9%9E%AD%E6%89%93&amp;action=edit" title="Template:强力鞭打">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%BD%A2%E8%B1%A1" title="Template:形象">Template:形象</a>（<a href="/index.php?title=Template:%E5%BD%A2%E8%B1%A1&amp;action=edit" title="Template:形象">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%BD%A2%E8%B1%A1/1" title="Template:形象/1">Template:形象/1</a>（<a href="/index.php?title=Template:%E5%BD%A2%E8%B1%A1/1&amp;action=edit" title="Template:形象/1">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%BD%A2%E8%B1%A1/2" title="Template:形象/2">Template:形象/2</a>（<a href="/index.php?title=Template:%E5%BD%A2%E8%B1%A1/2&amp;action=edit" title="Template:形象/2">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%BD%A2%E8%B1%A1/3" title="Template:形象/3">Template:形象/3</a>（<a href="/index.php?title=Template:%E5%BD%A2%E8%B1%A1/3&amp;action=edit" title="Template:形象/3">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%BD%A2%E8%B1%A1/4" title="Template:形象/4">Template:形象/4</a>（<a href="/index.php?title=Template:%E5%BD%A2%E8%B1%A1/4&amp;action=edit" title="Template:形象/4">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%BD%A2%E8%B1%A1/5" title="Template:形象/5">Template:形象/5</a>（<a href="/index.php?title=Template:%E5%BD%A2%E8%B1%A1/5&amp;action=edit" title="Template:形象/5">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%BD%A2%E8%B1%A1/6" title="Template:形象/6">Template:形象/6</a>（<a href="/index.php?title=Template:%E5%BD%A2%E8%B1%A1/6&amp;action=edit" title="Template:形象/6">查看源代码</a>）（受保护）</li><li><a href="/wiki/Template:%E5%BD%A2%E8%B1%A1/7/1-1-1formes" title="Template:形象/7/1-1-1formes">Template:形象/7/1-1-1formes</a>（<a href="/index.php?title=Template:%E5%BD%A2%E8%B1%A1/7/1-1-1formes&amp;action=edit" title="Template:形象/7/1-1-1formes">查看源代码</a>）</li><li><a href="/wiki/Template:%E5%BD%A2%E8%B1%A1/8" title="Template:形象/8">Template:形象/8</a>（<a href="/index.php?title=Template:%E5%BD%A2%E8%B1%A1/8&amp;action=edit" title="Template:形象/8">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%89%8E%E6%A0%B9" title="Template:扎根">Template:扎根</a>（<a href="/index.php?title=Template:%E6%89%8E%E6%A0%B9&amp;action=edit" title="Template:扎根">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%89%93%E8%8D%89%E7%BB%93" title="Template:打草结">Template:打草结</a>（<a href="/index.php?title=Template:%E6%89%93%E8%8D%89%E7%BB%93&amp;action=edit" title="Template:打草结">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%89%93%E9%BC%BE" title="Template:打鼾">Template:打鼾</a>（<a href="/index.php?title=Template:%E6%89%93%E9%BC%BE&amp;action=edit" title="Template:打鼾">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%8C%BA%E4%BD%8F" title="Template:挺住">Template:挺住</a>（<a href="/index.php?title=Template:%E6%8C%BA%E4%BD%8F&amp;action=edit" title="Template:挺住">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%90%BA%E5%B8%A6%E7%89%A9%E5%93%81/end" title="Template:携带物品/end">Template:携带物品/end</a>（<a href="/index.php?title=Template:%E6%90%BA%E5%B8%A6%E7%89%A9%E5%93%81/end&amp;action=edit" title="Template:携带物品/end">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%90%BA%E5%B8%A6%E7%89%A9%E5%93%81/header" title="Template:携带物品/header">Template:携带物品/header</a>（<a href="/index.php?title=Template:%E6%90%BA%E5%B8%A6%E7%89%A9%E5%93%81/header&amp;action=edit" title="Template:携带物品/header">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%90%BA%E5%B8%A6%E7%89%A9%E5%93%81/main" title="Template:携带物品/main">Template:携带物品/main</a>（<a href="/index.php?title=Template:%E6%90%BA%E5%B8%A6%E7%89%A9%E5%93%81/main&amp;action=edit" title="Template:携带物品/main">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%92%92%E5%A8%87" title="Template:撒娇">Template:撒娇</a>（<a href="/index.php?title=Template:%E6%92%92%E5%A8%87&amp;action=edit" title="Template:撒娇">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%92%9E%E5%87%BB" title="Template:撞击">Template:撞击</a>（<a href="/index.php?title=Template:%E6%92%9E%E5%87%BB&amp;action=edit" title="Template:撞击">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%97%A5%E5%85%89%E6%9D%9F" title="Template:日光束">Template:日光束</a>（<a href="/index.php?title=Template:%E6%97%A5%E5%85%89%E6%9D%9F&amp;action=edit" title="Template:日光束">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%9B%BF%E8%BA%AB" title="Template:替身">Template:替身</a>（<a href="/index.php?title=Template:%E6%9B%BF%E8%BA%AB&amp;action=edit" title="Template:替身">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%9C%80%E5%88%9D%E7%9A%84%E4%BC%99%E4%BC%B4" title="Template:最初的伙伴">Template:最初的伙伴</a>（<a href="/index.php?title=Template:%E6%9C%80%E5%88%9D%E7%9A%84%E4%BC%99%E4%BC%B4&amp;action=edit" title="Template:最初的伙伴">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%9C%AA%E5%AE%8C%E6%88%90" title="Template:未完成">Template:未完成</a>（<a href="/index.php?title=Template:%E6%9C%AA%E5%AE%8C%E6%88%90&amp;action=edit" title="Template:未完成">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%A2%A6%E8%AF%9D" title="Template:梦话">Template:梦话</a>（<a href="/index.php?title=Template:%E6%A2%A6%E8%AF%9D&amp;action=edit" title="Template:梦话">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%AF%92%E6%B6%B2%E5%86%B2%E5%87%BB" title="Template:毒液冲击">Template:毒液冲击</a>（<a href="/index.php?title=Template:%E6%AF%92%E6%B6%B2%E5%86%B2%E5%87%BB&amp;action=edit" title="Template:毒液冲击">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%AF%92%E7%B2%89" title="Template:毒粉">Template:毒粉</a>（<a href="/index.php?title=Template:%E6%AF%92%E7%B2%89&amp;action=edit" title="Template:毒粉">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%B0%94%E8%B1%A1%E7%90%83" title="Template:气象球">Template:气象球</a>（<a href="/index.php?title=Template:%E6%B0%94%E8%B1%A1%E7%90%83&amp;action=edit" title="Template:气象球">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%B1%A1%E6%B3%A5%E7%82%B8%E5%BC%B9" title="Template:污泥炸弹">Template:污泥炸弹</a>（<a href="/index.php?title=Template:%E6%B1%A1%E6%B3%A5%E7%82%B8%E5%BC%B9&amp;action=edit" title="Template:污泥炸弹">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6" title="Template:泰山压顶">Template:泰山压顶</a>（<a href="/index.php?title=Template:%E6%B3%B0%E5%B1%B1%E5%8E%8B%E9%A1%B6&amp;action=edit" title="Template:泰山压顶">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%B4%BB%E5%8A%A8%E8%B5%A0%E9%80%81%E5%88%97%E8%A1%A8/footer" title="Template:活动赠送列表/footer">Template:活动赠送列表/footer</a>（<a href="/index.php?title=Template:%E6%B4%BB%E5%8A%A8%E8%B5%A0%E9%80%81%E5%88%97%E8%A1%A8/footer&amp;action=edit" title="Template:活动赠送列表/footer">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%B4%BB%E5%8A%A8%E8%B5%A0%E9%80%81%E5%88%97%E8%A1%A8/header" title="Template:活动赠送列表/header">Template:活动赠送列表/header</a>（<a href="/index.php?title=Template:%E6%B4%BB%E5%8A%A8%E8%B5%A0%E9%80%81%E5%88%97%E8%A1%A8/header&amp;action=edit" title="Template:活动赠送列表/header">查看源代码</a>）</li><li><a href="/wiki/Template:%E6%B4%BB%E5%8A%A8%E8%B5%A0%E9%80%81%E5%88%97%E8%A1%A8/main" title="Template:活动赠送列表/main">Template:活动赠送列表/main</a>（<a href="/index.php?title=Template:%E6%B4%BB%E5%8A%A8%E8%B5%A0%E9%80%81%E5%88%97%E8%A1%A8/main&amp;action=edit" title="Template:活动赠送列表/main">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%81%AB%E7%AE%AD%E5%A4%B4%E9%94%A4" title="Template:火箭头锤">Template:火箭头锤</a>（<a href="/index.php?title=Template:%E7%81%AB%E7%AE%AD%E5%A4%B4%E9%94%A4&amp;action=edit" title="Template:火箭头锤">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%82%B9%E5%88%B0%E4%B8%BA%E6%AD%A2" title="Template:点到为止">Template:点到为止</a>（<a href="/index.php?title=Template:%E7%82%B9%E5%88%B0%E4%B8%BA%E6%AD%A2&amp;action=edit" title="Template:点到为止">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%83%A6%E6%81%BC%E7%A7%8D%E5%AD%90" title="Template:烦恼种子">Template:烦恼种子</a>（<a href="/index.php?title=Template:%E7%83%A6%E6%81%BC%E7%A7%8D%E5%AD%90&amp;action=edit" title="Template:烦恼种子">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%8C%9B%E6%92%9E" title="Template:猛撞">Template:猛撞</a>（<a href="/index.php?title=Template:%E7%8C%9B%E6%92%9E&amp;action=edit" title="Template:猛撞">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%94%9C%E7%94%9C%E9%A6%99%E6%B0%94" title="Template:甜甜香气">Template:甜甜香气</a>（<a href="/index.php?title=Template:%E7%94%9C%E7%94%9C%E9%A6%99%E6%B0%94&amp;action=edit" title="Template:甜甜香气">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%94%9F%E9%95%BF" title="Template:生长">Template:生长</a>（<a href="/index.php?title=Template:%E7%94%9F%E9%95%BF&amp;action=edit" title="Template:生长">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%9D%A1%E8%A7%89" title="Template:睡觉">Template:睡觉</a>（<a href="/index.php?title=Template:%E7%9D%A1%E8%A7%89&amp;action=edit" title="Template:睡觉">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%9E%AC%E9%97%B4%E5%A4%B1%E5%BF%86" title="Template:瞬间失忆">Template:瞬间失忆</a>（<a href="/index.php?title=Template:%E7%9E%AC%E9%97%B4%E5%A4%B1%E5%BF%86&amp;action=edit" title="Template:瞬间失忆">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%A1%AC%E6%92%91" title="Template:硬撑">Template:硬撑</a>（<a href="/index.php?title=Template:%E7%A1%AC%E6%92%91&amp;action=edit" title="Template:硬撑">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%A5%9E%E7%A7%98%E5%AE%88%E6%8A%A4" title="Template:神秘守护">Template:神秘守护</a>（<a href="/index.php?title=Template:%E7%A5%9E%E7%A7%98%E5%AE%88%E6%8A%A4&amp;action=edit" title="Template:神秘守护">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%A7%8D%E5%AD%90%E6%9C%BA%E5%85%B3%E6%9E%AA" title="Template:种子机关枪">Template:种子机关枪</a>（<a href="/index.php?title=Template:%E7%A7%8D%E5%AD%90%E6%9C%BA%E5%85%B3%E6%9E%AA&amp;action=edit" title="Template:种子机关枪">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%A7%8D%E5%AD%90%E7%82%B8%E5%BC%B9" title="Template:种子炸弹">Template:种子炸弹</a>（<a href="/index.php?title=Template:%E7%A7%8D%E5%AD%90%E7%82%B8%E5%BC%B9&amp;action=edit" title="Template:种子炸弹">查看源代码</a>）</li><li><a href="/wiki/Template:%E7%A7%8D%E6%97%8F%E5%80%BC" title="Template:种族值">Template:种族值</a>（<a href="/index.php?title=Template:%E7%A7%8D%E6%97%8F%E5%80%BC&amp;action=edit" title="Template:种族值">查看源代码</a>）（受半保护）</li><li><a href="/wiki/Template:%E7%BB%88%E6%9E%81%E5%90%B8%E5%8F%96" title="Template:终极吸取">Template:终极吸取</a>（<a href="/index.php?title=Template:%E7%BB%88%E6%9E%81%E5%90%B8%E5%8F%96&amp;action=edit" title="Template:终极吸取">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%83%BD%E9%87%8F%E7%90%83" title="Template:能量球">Template:能量球</a>（<a href="/index.php?title=Template:%E8%83%BD%E9%87%8F%E7%90%83&amp;action=edit" title="Template:能量球">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%87%AA%E6%88%91%E6%BF%80%E5%8A%B1" title="Template:自我激励">Template:自我激励</a>（<a href="/index.php?title=Template:%E8%87%AA%E6%88%91%E6%BF%80%E5%8A%B1&amp;action=edit" title="Template:自我激励">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%87%AA%E7%84%B6%E4%B9%8B%E5%8A%9B" title="Template:自然之力">Template:自然之力</a>（<a href="/index.php?title=Template:%E8%87%AA%E7%84%B6%E4%B9%8B%E5%8A%9B&amp;action=edit" title="Template:自然之力">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%88%8D%E8%BA%AB%E5%86%B2%E6%92%9E" title="Template:舍身冲撞">Template:舍身冲撞</a>（<a href="/index.php?title=Template:%E8%88%8D%E8%BA%AB%E5%86%B2%E6%92%9E&amp;action=edit" title="Template:舍身冲撞">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%8A%B1%E7%93%A3%E8%88%9E" title="Template:花瓣舞">Template:花瓣舞</a>（<a href="/index.php?title=Template:%E8%8A%B1%E7%93%A3%E8%88%9E&amp;action=edit" title="Template:花瓣舞">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%8D%89%E4%B9%8B%E8%AA%93%E7%BA%A6" title="Template:草之誓约">Template:草之誓约</a>（<a href="/index.php?title=Template:%E8%8D%89%E4%B9%8B%E8%AA%93%E7%BA%A6&amp;action=edit" title="Template:草之誓约">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%97%A4%E9%9E%AD" title="Template:藤鞭">Template:藤鞭</a>（<a href="/index.php?title=Template:%E8%97%A4%E9%9E%AD&amp;action=edit" title="Template:藤鞭">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%AF%85%E5%92%92" title="Template:诅咒">Template:诅咒</a>（<a href="/index.php?title=Template:%E8%AF%85%E5%92%92&amp;action=edit" title="Template:诅咒">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%BD%AE%E5%94%B1" title="Template:轮唱">Template:轮唱</a>（<a href="/index.php?title=Template:%E8%BD%AE%E5%94%B1&amp;action=edit" title="Template:轮唱">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%BF%9B%E5%8C%96%E6%A1%86" title="Template:进化框">Template:进化框</a>（<a href="/index.php?title=Template:%E8%BF%9B%E5%8C%96%E6%A1%86&amp;action=edit" title="Template:进化框">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%BF%9B%E5%8C%96%E6%A1%86/Evo" title="Template:进化框/Evo">Template:进化框/Evo</a>（<a href="/index.php?title=Template:%E8%BF%9B%E5%8C%96%E6%A1%86/Evo&amp;action=edit" title="Template:进化框/Evo">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%BF%9B%E5%8C%96%E6%A1%86/Setup" title="Template:进化框/Setup">Template:进化框/Setup</a>（<a href="/index.php?title=Template:%E8%BF%9B%E5%8C%96%E6%A1%86/Setup&amp;action=edit" title="Template:进化框/Setup">查看源代码</a>）</li><li><a href="/wiki/Template:%E8%BF%B7%E4%BA%BA" title="Template:迷人">Template:迷人</a>（<a href="/index.php?title=Template:%E8%BF%B7%E4%BA%BA&amp;action=edit" title="Template:迷人">查看源代码</a>）</li><li><a href="/wiki/Template:%E9%9D%92%E8%8D%89%E5%9C%BA%E5%9C%B0" title="Template:青草场地">Template:青草场地</a>（<a href="/index.php?title=Template:%E9%9D%92%E8%8D%89%E5%9C%BA%E5%9C%B0&amp;action=edit" title="Template:青草场地">查看源代码</a>）</li><li><a href="/wiki/Template:%E9%9D%92%E8%8D%89%E6%BB%91%E6%A2%AF" title="Template:青草滑梯">Template:青草滑梯</a>（<a href="/index.php?title=Template:%E9%9D%92%E8%8D%89%E6%BB%91%E6%A2%AF&amp;action=edit" title="Template:青草滑梯">查看源代码</a>）</li><li><a href="/wiki/Template:%E9%A3%9E%E5%8F%B6%E5%BF%AB%E5%88%80" title="Template:飞叶快刀">Template:飞叶快刀</a>（<a href="/index.php?title=Template:%E9%A3%9E%E5%8F%B6%E5%BF%AB%E5%88%80&amp;action=edit" title="Template:飞叶快刀">查看源代码</a>）</li><li><a href="/wiki/Template:%E9%A3%9E%E5%8F%B6%E9%A3%8E%E6%9A%B4" title="Template:飞叶风暴">Template:飞叶风暴</a>（<a href="/index.php?title=Template:%E9%A3%9E%E5%8F%B6%E9%A3%8E%E6%9A%B4&amp;action=edit" title="Template:飞叶风暴">查看源代码</a>）</li><li><a href="/wiki/Template:%E9%AD%94%E6%B3%95%E5%8F%B6" title="Template:魔法叶">Template:魔法叶</a>（<a href="/index.php?title=Template:%E9%AD%94%E6%B3%95%E5%8F%B6&amp;action=edit" title="Template:魔法叶">查看源代码</a>）</li></ul></div><p id="mw-returnto">返回至<a href="/wiki/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90" title="妙蛙种子">妙蛙种子</a>。</p>
+</div><div class="printfooter">取自“<a dir="ltr" href="https://wiki.52poke.com/wiki/妙蛙种子">https://wiki.52poke.com/wiki/妙蛙种子</a>”</div>
+		<div id="catlinks" class="catlinks catlinks-allhidden" data-mw="interface"></div>
+	</div>
+</div>
+
+<div id="mw-navigation">
+	<h2>导航菜单</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>个人工具</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-createaccount"><a href="/index.php?title=Special:%E5%88%9B%E5%BB%BA%E8%B4%A6%E6%88%B7&amp;returnto=%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90&amp;returntoquery=action%3Dedit" title="建议您创建一个账户并登录，但这不是强制的">创建账户</a></li><li id="pt-login"><a href="/index.php?title=Special:%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95&amp;returnto=%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90&amp;returntoquery=action%3Dedit" title="我们鼓励您登录；然而，这不是强制性的[o]" accesskey="o">登录</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>名字空间</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90" title="查看内容页面[c]" accesskey="c">页面</a></li><li id="ca-talk" class="new"><a href="/index.php?title=Talk:%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90&amp;action=edit&amp;redlink=1" rel="discussion" title="关于内容页面的讨论（页面不存在）[t]" accesskey="t">讨论</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>不转换</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"><li id="ca-varlang-0" class="selected"><a href="/zh/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90" lang="zh" hreflang="zh">不转换</a></li><li id="ca-varlang-1"><a href="/zh-hans/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90" lang="zh-Hans" hreflang="zh-Hans">简体</a></li><li id="ca-varlang-2"><a href="/zh-hant/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90" lang="zh-Hant" hreflang="zh-Hant">繁體</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>视图</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible"><a href="/wiki/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90">阅读</a></li><li id="ca-viewsource" class="collapsible selected"><a href="/index.php?title=%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90&amp;action=edit" title="本页面受到保护。您可以查看其源代码[e]" accesskey="e">查看源代码</a></li><li id="ca-history" class="collapsible"><a href="/index.php?title=%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90&amp;action=history" title="本页面过去的版本[h]" accesskey="h">查看历史</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>更多</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">搜索</label>
+	</h3>
+	<form action="/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="搜索神奇宝贝百科" title="搜索神奇宝贝百科[f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:搜索">
+			<input type="submit" name="fulltext" value="搜索" title="搜索含这些文字的页面" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="前往" title="若相同标题存在，则直接前往该页面" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="访问首页" class="mw-wiki-logo" href="/wiki/%E4%B8%BB%E9%A1%B5"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>导航</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/%E4%B8%BB%E9%A1%B5" title="访问首页[z]" accesskey="z">首页</a></li><li id="n-52poke"><a href="//52poke.com/">神奇宝贝部落格</a></li><li id="n-52poke-forums"><a href="https://52poke.net/">部落格社区</a></li><li id="n-meeting-room"><a href="/wiki/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%E7%99%BE%E7%A7%91_talk:%E4%BC%9A%E8%AE%AE%E5%AE%A4">会议室</a></li><li id="n-sandbox"><a href="/wiki/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%E7%99%BE%E7%A7%91:%E6%B2%99%E7%9B%92">沙盒</a></li><li id="n-recentchanges"><a href="/wiki/Special:%E6%9C%80%E8%BF%91%E6%9B%B4%E6%94%B9" title="本wiki最近更改的列表[r]" accesskey="r">最近更改</a></li><li id="n-randompage"><a href="/wiki/Special:%E9%9A%8F%E6%9C%BA%E9%A1%B5%E9%9D%A2" title="载入一个随机页面[x]" accesskey="x">随机页面</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-sidebar-nav" class="vector-menu vector-menu-portal portal" aria-labelledby="p-sidebar-nav-label" role="navigation" 
+	 >
+	<h3 id="p-sidebar-nav-label">
+		<span>快速导航</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-national-dex"><a href="/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%88%97%E8%A1%A8%EF%BC%88%E6%8C%89%E5%85%A8%E5%9B%BD%E5%9B%BE%E9%89%B4%E7%BC%96%E5%8F%B7%EF%BC%89/%E7%AE%80%E5%8D%95%E7%89%88">全国图鉴</a></li><li id="n-move-list"><a href="/wiki/%E6%8B%9B%E5%BC%8F%E5%88%97%E8%A1%A8">招式列表</a></li><li id="n-item-list"><a href="/wiki/%E9%81%93%E5%85%B7%E5%88%97%E8%A1%A8">道具列表</a></li><li id="n-location-list"><a href="/wiki/%E5%9C%B0%E7%82%B9%E5%88%97%E8%A1%A8">地点列表</a></li><li id="n-game"><a href="/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E6%B8%B8%E6%88%8F">游戏</a></li><li id="n-anime"><a href="/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E5%8A%A8%E7%94%BB">动画</a></li><li id="n-adventures"><a href="/wiki/%E7%B2%BE%E7%81%B5%E5%AE%9D%E5%8F%AF%E6%A2%A6%E7%89%B9%E5%88%AB%E7%AF%87">特别篇</a></li><li id="n-tcg-list"><a href="/wiki/%E5%AE%9D%E5%8F%AF%E6%A2%A6%E9%9B%86%E6%8D%A2%E5%BC%8F%E5%8D%A1%E7%89%8C%E6%B8%B8%E6%88%8F%E5%88%97%E8%A1%A8">PTCG版本列表</a></li><li id="n-calc-sm"><a href="https://mudkip.me/ivcalc/ivcalcsm.html">个体值计算器（Ⅶ）</a></li><li id="n-calc-xy"><a href="http://wiki.52poke.com/calc/">个体值计算器（Ⅵ）</a></li><li id="n-calc"><a href="https://wiki.52poke.com/calc/gen5.html">个体值计算器</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-newbie-guide" class="vector-menu vector-menu-portal portal" aria-labelledby="p-newbie-guide-label" role="navigation" 
+	 >
+	<h3 id="p-newbie-guide-label">
+		<span>新手指引</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help-main"><a href="/wiki/Help:%E7%9B%AE%E5%BD%95">帮助台首页</a></li><li id="n-util"><a href="https://util.52poke.wiki">工具台</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>工具</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:%E9%93%BE%E5%85%A5%E9%A1%B5%E9%9D%A2/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90" title="所有链接至本页面的wiki页面的列表[j]" accesskey="j">链入页面</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:%E9%93%BE%E5%87%BA%E6%9B%B4%E6%94%B9/%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90" rel="nofollow" title="链自本页的页面的最近更改[k]" accesskey="k">相关更改</a></li><li id="t-specialpages"><a href="/wiki/Special:%E7%89%B9%E6%AE%8A%E9%A1%B5%E9%9D%A2" title="所有特殊页面的列表[q]" accesskey="q">特殊页面</a></li><li id="t-info"><a href="/index.php?title=%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90&amp;action=info" title="关于此页面的更多信息">页面信息</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="/wiki/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%E7%99%BE%E7%A7%91:%E9%9A%90%E7%A7%81%E6%94%BF%E7%AD%96" title="神奇宝贝百科:隐私政策">隐私政策</a></li>
+		<li id="footer-places-about"><a href="/wiki/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%E7%99%BE%E7%A7%91:%E5%85%B3%E4%BA%8E" class="mw-redirect" title="神奇宝贝百科:关于">关于神奇宝贝百科</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/%E7%A5%9E%E5%A5%87%E5%AE%9D%E8%B4%9D%E7%99%BE%E7%A7%91:%E5%85%8D%E8%B4%A3%E5%A3%B0%E6%98%8E" title="神奇宝贝百科:免责声明">免责声明</a></li>
+		<li id="footer-places-mobileview"><a href="//wiki.52poke.com/index.php?title=%E5%A6%99%E8%9B%99%E7%A7%8D%E5%AD%90&amp;action=edit&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">手机版视图</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="//creativecommons.org/licenses/by-nc-sa/3.0/deed.zh"><img src="//licensebuttons.net/l/by-nc-sa/3.0/88x31.png" alt="署名-非商业性使用-相同方式共享 3.0" width="88" height="31" loading="lazy"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-4004655-3', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+
+</script>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":689});});</script></body></html>
