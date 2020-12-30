@@ -1,0 +1,2617 @@
+{
+    "真新镇": {
+        "chinese_name": "真新镇",
+        "japanese_name": "マサラタウン",
+        "english_name": "Pallet Town"
+    },
+    "常青市": {
+        "chinese_name": "常青市",
+        "japanese_name": "トキワシティ",
+        "english_name": "Viridian City"
+    },
+    "深灰市": {
+        "chinese_name": "深灰市",
+        "japanese_name": "ニビシティ",
+        "english_name": "Pewter City"
+    },
+    "华蓝市": {
+        "chinese_name": "华蓝市",
+        "japanese_name": "ハナダシティ",
+        "english_name": "Cerulean City"
+    },
+    "枯叶市": {
+        "chinese_name": "枯叶市",
+        "japanese_name": "クチバシティ",
+        "english_name": "Vermilion City"
+    },
+    "玉虹市": {
+        "chinese_name": "玉虹市",
+        "japanese_name": "タマムシシティ",
+        "english_name": "Celadon City"
+    },
+    "紫苑镇": {
+        "chinese_name": "紫苑镇",
+        "japanese_name": "シオンタウン",
+        "english_name": "Lavender Town"
+    },
+    "金黄市": {
+        "chinese_name": "金黄市",
+        "japanese_name": "ヤマブキシティ",
+        "english_name": "Saffron City"
+    },
+    "浅红市": {
+        "chinese_name": "浅红市",
+        "japanese_name": "セキチクシティ",
+        "english_name": "Fuchsia City"
+    },
+    "红莲镇": {
+        "chinese_name": "红莲镇",
+        "japanese_name": "グレンタウン",
+        "english_name": "Cinnabar Island"
+    },
+    "华蓝洞窟": {
+        "chinese_name": "华蓝洞窟",
+        "japanese_name": "ハナダの洞窟",
+        "english_name": "Cerulean Cave"
+    },
+    "玉虹百货公司": {
+        "chinese_name": "玉虹百货公司",
+        "japanese_name": "タマムシデパート",
+        "english_name": "Celadon Department Store"
+    },
+    "玉虹游戏城": {
+        "chinese_name": "玉虹游戏城",
+        "japanese_name": "タマムシゲームコーナー",
+        "english_name": "Celadon Game Corner"
+    },
+    "火箭游戏城": {
+        "chinese_name": "火箭游戏城",
+        "japanese_name": "ロケットゲームコーナー",
+        "english_name": "Rocket Game Corner"
+    },
+    "火箭队基地": {
+        "chinese_name": "火箭队基地",
+        "japanese_name": "ロッケトだんアジト",
+        "english_name": "Team Rocket HQ"
+    },
+    "自行车道": {
+        "chinese_name": "自行车道",
+        "japanese_name": "サイクリングロード",
+        "english_name": "Cycling Road"
+    },
+    "地鼠洞穴": {
+        "chinese_name": "地鼠洞穴",
+        "japanese_name": "ディグダの穴",
+        "english_name": "Diglett's Cave"
+    },
+    "石英高原": {
+        "chinese_name": "石英高原",
+        "japanese_name": "セキエイ高原",
+        "english_name": "Indigo Plateau"
+    },
+    "月见山": {
+        "chinese_name": "月见山",
+        "japanese_name": "お月见山",
+        "english_name": "Mt. Moon"
+    },
+    "月见山广场": {
+        "chinese_name": "月见山广场",
+        "japanese_name": "お月见山広场",
+        "english_name": "Mt. Moon Square"
+    },
+    "宝可梦屋": {
+        "chinese_name": "宝可梦屋",
+        "japanese_name": "ポケモン屋敷",
+        "english_name": "Pokémon Mansion"
+    },
+    "宝可梦研究所": {
+        "chinese_name": "宝可梦研究所",
+        "japanese_name": "ポケモンけんきゅうじょ",
+        "english_name": "Pokémon Lab"
+    },
+    "红莲研究所": {
+        "chinese_name": "红莲研究所",
+        "japanese_name": "グレン　ラボラトリー",
+        "english_name": "Cinnabar Lab"
+    },
+    "宝可梦塔": {
+        "chinese_name": "宝可梦塔",
+        "japanese_name": "ポケモンタワー",
+        "english_name": "Pokémon Tower"
+    },
+    "关都电台": {
+        "chinese_name": "关都电台",
+        "japanese_name": "カントーラジオきょく",
+        "english_name": "Lavender Radio Tower"
+    },
+    "无人发电厂": {
+        "chinese_name": "无人发电厂",
+        "japanese_name": "无人発电所",
+        "english_name": "Power Plant"
+    },
+    "岩山隧道": {
+        "chinese_name": "岩山隧道",
+        "japanese_name": "イワヤマトンネル",
+        "english_name": "Rock Tunnel"
+    },
+    "狩猎地带": {
+        "chinese_name": "狩猎地带",
+        "japanese_name": "サファリゾーン",
+        "english_name": "Safari Zone"
+    },
+    "双子岛": {
+        "chinese_name": "双子岛",
+        "japanese_name": "双子岛",
+        "english_name": "Seafoam Islands"
+    },
+    "寂静桥": {
+        "chinese_name": "寂静桥",
+        "japanese_name": "サイレンズブリッジ",
+        "english_name": "Silence Bridge"
+    },
+    "西尔佛公司": {
+        "chinese_name": "西尔佛公司",
+        "japanese_name": "シルフカンパニー",
+        "english_name": "Silph Co."
+    },
+    "圣特安努号": {
+        "chinese_name": "圣特安努号",
+        "japanese_name": "サント・アンヌ号",
+        "english_name": "S.S. Anne"
+    },
+    "都城瀑布": {
+        "chinese_name": "都城瀑布",
+        "japanese_name": "トージョウの滝",
+        "english_name": "Tohjo Falls"
+    },
+    "地下通道": {
+        "chinese_name": "地下通道",
+        "japanese_name": "ちかつうろ",
+        "english_name": "Underground Path"
+    },
+    "冠军之路": {
+        "chinese_name": "冠军之路",
+        "japanese_name": "チャンピオンロード",
+        "english_name": "Victory Road"
+    },
+    "宝可梦联盟大门": {
+        "chinese_name": "宝可梦联盟大门",
+        "japanese_name": "ポケモンリーグうけつけゲート",
+        "english_name": "Pokémon League Reception Gate"
+    },
+    "常青森林": {
+        "chinese_name": "常青森林",
+        "japanese_name": "トキワの森",
+        "english_name": "Viridian Forest"
+    },
+    "深灰科学博物馆": {
+        "chinese_name": "深灰科学博物馆",
+        "japanese_name": "ニビかがくはくぶつかん",
+        "english_name": "Pewter Museum of Science"
+    },
+    "磁浮列车": {
+        "chinese_name": "磁浮列车",
+        "japanese_name": "リニアモーターカー",
+        "english_name": "Magnet Train"
+    },
+    "伙伴公园": {
+        "chinese_name": "伙伴公园",
+        "japanese_name": "パルパーク",
+        "english_name": "Pal Park"
+    },
+    "若叶镇": {
+        "chinese_name": "若叶镇",
+        "japanese_name": "ワカバタウン",
+        "english_name": "New Bark Town"
+    },
+    "吉花市": {
+        "chinese_name": "吉花市",
+        "japanese_name": "ヨシノシティ",
+        "english_name": "Cherrygrove City"
+    },
+    "桔梗市": {
+        "chinese_name": "桔梗市",
+        "japanese_name": "キキョウシティ",
+        "english_name": "Violet City"
+    },
+    "桧皮镇": {
+        "chinese_name": "桧皮镇",
+        "japanese_name": "ヒワダタウン",
+        "english_name": "Azalea Town"
+    },
+    "满金市": {
+        "chinese_name": "满金市",
+        "japanese_name": "コガネシティ",
+        "english_name": "Goldenrod City"
+    },
+    "缘朱市": {
+        "chinese_name": "缘朱市",
+        "japanese_name": "エンジュシティ",
+        "english_name": "Ecruteak City"
+    },
+    "浅葱市": {
+        "chinese_name": "浅葱市",
+        "japanese_name": "アサギシティ",
+        "english_name": "Olivine City"
+    },
+    "湛蓝市": {
+        "chinese_name": "湛蓝市",
+        "japanese_name": "タンバシティ",
+        "english_name": "Cianwood City"
+    },
+    "卡吉镇": {
+        "chinese_name": "卡吉镇",
+        "japanese_name": "チョウジタウン",
+        "english_name": "Mahogany Town"
+    },
+    "烟墨市": {
+        "chinese_name": "烟墨市",
+        "japanese_name": "フスベシティ",
+        "english_name": "Blackthorn City"
+    },
+    "铃音小道": {
+        "chinese_name": "铃音小道",
+        "japanese_name": "スズ音の小道",
+        "english_name": "Bellchime Trail"
+    },
+    "烧焦塔": {
+        "chinese_name": "烧焦塔",
+        "japanese_name": "焼けた塔",
+        "english_name": "Burned Tower"
+    },
+    "断崖洞窟": {
+        "chinese_name": "断崖洞窟",
+        "japanese_name": "断崖の洞窟",
+        "english_name": "Cliff Cave"
+    },
+    "断崖入口": {
+        "chinese_name": "断崖入口",
+        "japanese_name": "崖っぷちゲート",
+        "english_name": "Cliff Edge Gate"
+    },
+    "黑暗穴": {
+        "chinese_name": "黑暗穴",
+        "japanese_name": "暗闇の洞穴",
+        "english_name": "Dark Cave"
+    },
+    "埋藏之塔": {
+        "chinese_name": "埋藏之塔",
+        "japanese_name": "埋もれの塔",
+        "english_name": "Embedded Tower"
+    },
+    "龙穴": {
+        "chinese_name": "龙穴",
+        "japanese_name": "龙の穴",
+        "english_name": "Dragon's Den"
+    },
+    "光辉灯塔": {
+        "chinese_name": "光辉灯塔",
+        "japanese_name": "辉きの灯台",
+        "english_name": "Glitter Lighthouse"
+    },
+    "满金地道": {
+        "chinese_name": "满金地道",
+        "japanese_name": "コガネちかつうろ",
+        "english_name": "Goldenrod Tunnel"
+    },
+    "狩猎地带入口": {
+        "chinese_name": "狩猎地带入口",
+        "japanese_name": "サファリゾーンゲート",
+        "english_name": "Safari Zone Gate"
+    },
+    "冰雪小径": {
+        "chinese_name": "冰雪小径",
+        "japanese_name": "冰の抜け道",
+        "english_name": "Ice Path"
+    },
+    "栎树林": {
+        "chinese_name": "栎树林",
+        "japanese_name": "ウバメの森",
+        "english_name": "Ilex Forest"
+    },
+    "愤怒之湖": {
+        "chinese_name": "愤怒之湖",
+        "japanese_name": "怒りの湖",
+        "english_name": "Lake of Rage"
+    },
+    "哞哞牧场": {
+        "chinese_name": "哞哞牧场",
+        "japanese_name": "モーモー牧场",
+        "english_name": "MooMoo Farm"
+    },
+    "擂钵山": {
+        "chinese_name": "擂钵山",
+        "japanese_name": "スリバチ山",
+        "english_name": "Mt. Mortar"
+    },
+    "白银山": {
+        "chinese_name": "白银山",
+        "japanese_name": "シロガネ山",
+        "english_name": "Mt. Silver"
+    },
+    "自然公园": {
+        "chinese_name": "自然公园",
+        "japanese_name": "自然公园",
+        "english_name": "National Park"
+    },
+    "宝可梦全能竞技赛巨蛋": {
+        "chinese_name": "宝可梦全能竞技赛巨蛋",
+        "japanese_name": "ポケスロンドーム",
+        "english_name": "Pokéathlon Dome"
+    },
+    "满金电台": {
+        "chinese_name": "满金电台",
+        "japanese_name": "コガネラジオとう",
+        "english_name": "Goldenrod Radio Tower"
+    },
+    "阿露福遗迹": {
+        "chinese_name": "阿露福遗迹",
+        "japanese_name": "アルフの遗迹",
+        "english_name": "Ruins of Alph"
+    },
+    "呆呆兽之井": {
+        "chinese_name": "呆呆兽之井",
+        "japanese_name": "ヤドンの井戸",
+        "english_name": "Slowpoke Well"
+    },
+    "喇叭芽之塔": {
+        "chinese_name": "喇叭芽之塔",
+        "japanese_name": "マダツボミの塔",
+        "english_name": "Sprout Tower"
+    },
+    "铃铛塔": {
+        "chinese_name": "铃铛塔",
+        "japanese_name": "スズの塔",
+        "english_name": "Bell Tower"
+    },
+    "互连洞": {
+        "chinese_name": "互连洞",
+        "japanese_name": "繋がりの洞窟",
+        "english_name": "Union Cave"
+    },
+    "漩涡岛": {
+        "chinese_name": "漩涡岛",
+        "japanese_name": "涡巻き岛",
+        "english_name": "Whirl Islands"
+    },
+    "开拓区入口": {
+        "chinese_name": "开拓区入口",
+        "japanese_name": "フロンティアフロント",
+        "english_name": "Frontier Access"
+    },
+    "对战开拓区": {
+        "chinese_name": "对战开拓区",
+        "japanese_name": "バトルフロンティア",
+        "english_name": "Battle Frontier"
+    },
+    "对战塔": {
+        "chinese_name": "对战塔",
+        "japanese_name": "バトルタワー",
+        "english_name": "Battle Tower"
+    },
+    "未白镇": {
+        "chinese_name": "未白镇",
+        "japanese_name": "ミシロタウン",
+        "english_name": "Littleroot Town"
+    },
+    "古辰镇": {
+        "chinese_name": "古辰镇",
+        "japanese_name": "コトキタウン",
+        "english_name": "Oldale Town"
+    },
+    "橙华市": {
+        "chinese_name": "橙华市",
+        "japanese_name": "トウカシティ",
+        "english_name": "Petalburg City"
+    },
+    "卡那兹市": {
+        "chinese_name": "卡那兹市",
+        "japanese_name": "カナズミシティ",
+        "english_name": "Rustboro City"
+    },
+    "武斗镇": {
+        "chinese_name": "武斗镇",
+        "japanese_name": "ムロタウン",
+        "english_name": "Dewford Town"
+    },
+    "凯那市": {
+        "chinese_name": "凯那市",
+        "japanese_name": "カイナシティ",
+        "english_name": "Slateport City"
+    },
+    "紫堇市": {
+        "chinese_name": "紫堇市",
+        "japanese_name": "キンセツシティ",
+        "english_name": "Mauville City"
+    },
+    "绿荫镇": {
+        "chinese_name": "绿荫镇",
+        "japanese_name": "シダケタウン",
+        "english_name": "Verdanturf Town"
+    },
+    "秋叶镇": {
+        "chinese_name": "秋叶镇",
+        "japanese_name": "ハジツゲタウン",
+        "english_name": "Fallarbor Town"
+    },
+    "釜炎镇": {
+        "chinese_name": "釜炎镇",
+        "japanese_name": "フエンタウン",
+        "english_name": "Lavaridge Town"
+    },
+    "茵郁市": {
+        "chinese_name": "茵郁市",
+        "japanese_name": "ヒワマキシティ",
+        "english_name": "Fortree City"
+    },
+    "水静市": {
+        "chinese_name": "水静市",
+        "japanese_name": "ミナモシティ",
+        "english_name": "Lilycove City"
+    },
+    "绿岭市": {
+        "chinese_name": "绿岭市",
+        "japanese_name": "トクサネシティ",
+        "english_name": "Mossdeep City"
+    },
+    "琉璃市": {
+        "chinese_name": "琉璃市",
+        "japanese_name": "ルネシティ",
+        "english_name": "Sootopolis City"
+    },
+    "暮水镇": {
+        "chinese_name": "暮水镇",
+        "japanese_name": "キナギタウン",
+        "english_name": "Pacifidlog Town"
+    },
+    "彩幽市": {
+        "chinese_name": "彩幽市",
+        "japanese_name": "サイユウシティ",
+        "english_name": "Ever Grande City"
+    },
+    "弃船": {
+        "chinese_name": "弃船",
+        "japanese_name": "舍てられ船",
+        "english_name": "Abandoned Ship"
+    },
+    "古代坟墓": {
+        "chinese_name": "古代坟墓",
+        "japanese_name": "古代冢",
+        "english_name": "Ancient Tomb"
+    },
+    "工匠之穴": {
+        "chinese_name": "工匠之穴",
+        "japanese_name": "アトリエのあな",
+        "english_name": "Artisan Cave"
+    },
+    "觉醒祠堂": {
+        "chinese_name": "觉醒祠堂",
+        "japanese_name": "目覚めの丛祠",
+        "english_name": "Cave of Origin"
+    },
+    "沙漠遗迹": {
+        "chinese_name": "沙漠遗迹",
+        "japanese_name": "砂漠遗迹",
+        "english_name": "Desert Ruins"
+    },
+    "沙漠的地下道": {
+        "chinese_name": "沙漠的地下道",
+        "japanese_name": "砂漠の地下道",
+        "english_name": "Desert Underpass"
+    },
+    "边境的小岛": {
+        "chinese_name": "边境的小岛",
+        "japanese_name": "最果ての孤岛",
+        "english_name": "Faraway Island"
+    },
+    "热焰小径": {
+        "chinese_name": "热焰小径",
+        "japanese_name": "炎の抜け道",
+        "english_name": "Fiery Path"
+    },
+    "石之洞窟": {
+        "chinese_name": "石之洞窟",
+        "japanese_name": "石の洞窟",
+        "english_name": "Granite Cave"
+    },
+    "小岛横穴": {
+        "chinese_name": "小岛横穴",
+        "japanese_name": "小岛の横穴",
+        "english_name": "Island Cave"
+    },
+    "凹凸山道": {
+        "chinese_name": "凹凸山道",
+        "japanese_name": "デコボコ山道",
+        "english_name": "Jagged Pass"
+    },
+    "海之窟": {
+        "chinese_name": "海之窟",
+        "japanese_name": "海の洞窟",
+        "english_name": "Marine Cave"
+    },
+    "流星瀑布": {
+        "chinese_name": "流星瀑布",
+        "japanese_name": "流星の滝",
+        "english_name": "Meteor Falls"
+    },
+    "幻之岛": {
+        "chinese_name": "幻之岛",
+        "japanese_name": "マボロシ岛",
+        "english_name": "Mirage Island"
+    },
+    "幻影之塔": {
+        "chinese_name": "幻影之塔",
+        "japanese_name": "幻影の塔",
+        "english_name": "Mirage Tower"
+    },
+    "烟囱山": {
+        "chinese_name": "烟囱山",
+        "japanese_name": "烟囱山",
+        "english_name": "Mt. Chimney"
+    },
+    "送神山": {
+        "chinese_name": "送神山",
+        "japanese_name": "送り火山",
+        "english_name": "Mt. Pyre"
+    },
+    "新紫堇": {
+        "chinese_name": "新紫堇",
+        "japanese_name": "ニューキンセツ",
+        "english_name": "New Mauville"
+    },
+    "橙华森林": {
+        "chinese_name": "橙华森林",
+        "japanese_name": "トウカの森",
+        "english_name": "Petalburg Woods"
+    },
+    "卡绿隧道": {
+        "chinese_name": "卡绿隧道",
+        "japanese_name": "カナシダトンネル",
+        "english_name": "Rusturf Tunnel"
+    },
+    "天旱石窟": {
+        "chinese_name": "天旱石窟",
+        "japanese_name": "日照りの岩戸",
+        "english_name": "Scorched Slab"
+    },
+    "海底洞窟": {
+        "chinese_name": "海底洞窟",
+        "japanese_name": "海底洞窟",
+        "english_name": "Seafloor Cavern"
+    },
+    "布告石室": {
+        "chinese_name": "布告石室",
+        "japanese_name": "お触れの石室",
+        "english_name": "Sealed Chamber"
+    },
+    "浅滩洞穴": {
+        "chinese_name": "浅滩洞穴",
+        "japanese_name": "浅瀬の洞穴",
+        "english_name": "Shoal Cave"
+    },
+    "天空之柱": {
+        "chinese_name": "天空之柱",
+        "japanese_name": "空の柱",
+        "english_name": "Sky Pillar"
+    },
+    "南方孤岛": {
+        "chinese_name": "南方孤岛",
+        "japanese_name": "南の孤岛",
+        "english_name": "Southern Island"
+    },
+    "陆之窟": {
+        "chinese_name": "陆之窟",
+        "japanese_name": "陆の洞窟",
+        "english_name": "Terra Cave"
+    },
+    "训练家之丘": {
+        "chinese_name": "训练家之丘",
+        "japanese_name": "トレーナーヒル",
+        "english_name": "Trainer Hill"
+    },
+    "天气研究所": {
+        "chinese_name": "天气研究所",
+        "japanese_name": "天気研究所",
+        "english_name": "Weather Institute"
+    },
+    "水下": {
+        "chinese_name": "水下",
+        "japanese_name": "すいちゅう",
+        "english_name": "Underwater"
+    },
+    "海紫堇": {
+        "chinese_name": "海紫堇",
+        "japanese_name": "シーキンセツ",
+        "english_name": "Sea Mauville"
+    },
+    "对战名胜区": {
+        "chinese_name": "对战名胜区",
+        "japanese_name": "バトルリゾート",
+        "english_name": "Battle Resort"
+    },
+    "原始森林": {
+        "chinese_name": "原始森林",
+        "japanese_name": "未開の森",
+        "english_name": "Trackless Forest"
+    },
+    "无名平原": {
+        "chinese_name": "无名平原",
+        "japanese_name": "名もなき平原",
+        "english_name": "Pathless Plain"
+    },
+    "未知洞窟": {
+        "chinese_name": "未知洞窟",
+        "japanese_name": "未知の洞窟",
+        "english_name": "Nameless Cavern"
+    },
+    "朦胧洞窟": {
+        "chinese_name": "朦胧洞窟",
+        "japanese_name": "おぼろの洞窟",
+        "english_name": "Fabled Cave"
+    },
+    "歪曲洞穴": {
+        "chinese_name": "歪曲洞穴",
+        "japanese_name": "いびつな穴",
+        "english_name": "Gnarled Den"
+    },
+    "弓形之岛": {
+        "chinese_name": "弓形之岛",
+        "japanese_name": "弓形の岛",
+        "english_name": "Crescent Isle"
+    },
+    "秘密小岛": {
+        "chinese_name": "秘密小岛",
+        "japanese_name": "ひみつの小岛",
+        "english_name": "Secret Islet"
+    },
+    "天空": {
+        "chinese_name": "天空",
+        "japanese_name": "大空",
+        "english_name": "Soaring in the sky"
+    },
+    "秘密海滨": {
+        "chinese_name": "秘密海滨",
+        "japanese_name": "ひみつのいそべ",
+        "english_name": "Secret Shore"
+    },
+    "秘密花圃": {
+        "chinese_name": "秘密花圃",
+        "japanese_name": "ひみつの花畑",
+        "english_name": "Secret Meadow"
+    },
+    "双叶镇": {
+        "chinese_name": "双叶镇",
+        "japanese_name": "フタバタウン",
+        "english_name": "Twinleaf Town"
+    },
+    "真砂镇": {
+        "chinese_name": "真砂镇",
+        "japanese_name": "マサゴタウン",
+        "english_name": "Sandgem Town"
+    },
+    "祝庆市": {
+        "chinese_name": "祝庆市",
+        "japanese_name": "コトブキシティ",
+        "english_name": "Jubilife City"
+    },
+    "黑金市": {
+        "chinese_name": "黑金市",
+        "japanese_name": "クロガネシティ",
+        "english_name": "Oreburgh City"
+    },
+    "苑之镇": {
+        "chinese_name": "苑之镇",
+        "japanese_name": "ソノオタウン",
+        "english_name": "Floaroma Town"
+    },
+    "百代市": {
+        "chinese_name": "百代市",
+        "japanese_name": "ハクタイシティ",
+        "english_name": "Eterna City"
+    },
+    "家缘市": {
+        "chinese_name": "家缘市",
+        "japanese_name": "ヨスガシティ",
+        "english_name": "Hearthome City"
+    },
+    "随意镇": {
+        "chinese_name": "随意镇",
+        "japanese_name": "ズイタウン",
+        "english_name": "Solaceon Town"
+    },
+    "帷幕市": {
+        "chinese_name": "帷幕市",
+        "japanese_name": "トバリシティ",
+        "english_name": "Veilstone City"
+    },
+    "湿原市": {
+        "chinese_name": "湿原市",
+        "japanese_name": "ノモセシティ",
+        "english_name": "Pastoria City"
+    },
+    "神和镇": {
+        "chinese_name": "神和镇",
+        "japanese_name": "カンナギタウン",
+        "english_name": "Celestic Town"
+    },
+    "水脉市": {
+        "chinese_name": "水脉市",
+        "japanese_name": "ミオシティ",
+        "english_name": "Canalave City"
+    },
+    "雪峰市": {
+        "chinese_name": "雪峰市",
+        "japanese_name": "キッサキシティ",
+        "english_name": "Snowpoint City"
+    },
+    "滨海市": {
+        "chinese_name": "滨海市",
+        "japanese_name": "ナギサシティ",
+        "english_name": "Sunyshore City"
+    },
+    "沟通广场": {
+        "chinese_name": "沟通广场",
+        "japanese_name": "触れ合い広场",
+        "english_name": "Amity Square"
+    },
+    "对战特区": {
+        "chinese_name": "对战特区",
+        "japanese_name": "バトルゾーン",
+        "english_name": "Battle Zone"
+    },
+    "对战公园": {
+        "chinese_name": "对战公园",
+        "japanese_name": "バトルパーク",
+        "english_name": "Battle Park"
+    },
+    "山后屋咖啡厅": {
+        "chinese_name": "山后屋咖啡厅",
+        "japanese_name": "山小屋",
+        "english_name": "Café Cabin"
+    },
+    "毁坏的世界": {
+        "chinese_name": "毁坏的世界",
+        "japanese_name": "破れた世界",
+        "english_name": "Distortion World"
+    },
+    "战斗区": {
+        "chinese_name": "战斗区",
+        "japanese_name": "ファイトエリア",
+        "english_name": "Fight Area"
+    },
+    "苑之花田": {
+        "chinese_name": "苑之花田",
+        "japanese_name": "ソノオの花畑",
+        "english_name": "Floaroma Meadow"
+    },
+    "花之乐园": {
+        "chinese_name": "花之乐园",
+        "japanese_name": "花の楽園",
+        "english_name": "Flower Paradise"
+    },
+    "足迹博士的家": {
+        "chinese_name": "足迹博士的家",
+        "japanese_name": "足跡博士の家",
+        "english_name": "Footstep House"
+    },
+    "异文化建筑": {
+        "chinese_name": "异文化建筑",
+        "japanese_name": "異文化の建物",
+        "english_name": "Foreign Building"
+    },
+    "满月岛": {
+        "chinese_name": "满月岛",
+        "japanese_name": "満月島",
+        "english_name": "Fullmoon Island"
+    },
+    "多多罗铁工厂": {
+        "chinese_name": "多多罗铁工厂",
+        "japanese_name": "タタラ制铁所",
+        "english_name": "Fuego Ironworks"
+    },
+    "全球终端": {
+        "chinese_name": "全球终端",
+        "japanese_name": "グローバルターミナル",
+        "english_name": "Global Terminal"
+    },
+    "湖畔高级宾馆": {
+        "chinese_name": "湖畔高级宾馆",
+        "japanese_name": "ホテルグランドレイク",
+        "english_name": "Hotel Grand Lake"
+    },
+    "大湿地": {
+        "chinese_name": "大湿地",
+        "japanese_name": "大湿原",
+        "english_name": "Great Marsh"
+    },
+    "初始之间": {
+        "chinese_name": "初始之间",
+        "japanese_name": "始まりの间",
+        "english_name": "Hall of Origin"
+    },
+    "冰山遗迹": {
+        "chinese_name": "冰山遗迹",
+        "japanese_name": "氷山の遺跡",
+        "english_name": "Iceberg Ruins"
+    },
+    "钢铁岛": {
+        "chinese_name": "钢铁岛",
+        "japanese_name": "钢铁岛",
+        "english_name": "Iron Island"
+    },
+    "黑金遗迹": {
+        "chinese_name": "黑金遗迹",
+        "japanese_name": "黒鉄の遺跡",
+        "english_name": "Iron Ruins"
+    },
+    "睿智湖": {
+        "chinese_name": "睿智湖",
+        "japanese_name": "エイチ湖",
+        "english_name": "Lake Acuity"
+    },
+    "立志湖": {
+        "chinese_name": "立志湖",
+        "japanese_name": "リッシ湖",
+        "english_name": "Lake Valor"
+    },
+    "心齐湖": {
+        "chinese_name": "心齐湖",
+        "japanese_name": "シンジ湖",
+        "english_name": "Lake Verity"
+    },
+    "炭坑博物馆": {
+        "chinese_name": "炭坑博物馆",
+        "japanese_name": "炭坑博物館",
+        "english_name": "Mining Museum"
+    },
+    "天冠山": {
+        "chinese_name": "天冠山",
+        "japanese_name": "テンガン山",
+        "english_name": "Mt. Coronet"
+    },
+    "新月岛": {
+        "chinese_name": "新月岛",
+        "japanese_name": "新月島",
+        "english_name": "Newmoon Island"
+    },
+    "森之洋馆": {
+        "chinese_name": "森之洋馆",
+        "japanese_name": "森の洋館",
+        "english_name": "Old Chateau"
+    },
+    "宝可表公司": {
+        "chinese_name": "宝可表公司",
+        "japanese_name": "ポケッチカンパニー",
+        "english_name": "Pokétch Company"
+    },
+    "荒芜小道": {
+        "chinese_name": "荒芜小道",
+        "japanese_name": "荒れた抜け道",
+        "english_name": "Ravaged Path"
+    },
+    "名胜区": {
+        "chinese_name": "名胜区",
+        "japanese_name": "リゾートエリア",
+        "english_name": "Resort Area"
+    },
+    "岩山遗迹": {
+        "chinese_name": "岩山遗迹",
+        "japanese_name": "岩山の遺跡",
+        "english_name": "Rock Peak Ruins"
+    },
+    "分海之路": {
+        "chinese_name": "分海之路",
+        "japanese_name": "海割れの道",
+        "english_name": "Seabreak Path"
+    },
+    "送泉": {
+        "chinese_name": "送泉",
+        "japanese_name": "送りの泉",
+        "english_name": "Sendoff Spring"
+    },
+    "七星级七星饭店": {
+        "chinese_name": "七星级七星饭店",
+        "japanese_name": "レストラン七つ星",
+        "english_name": "Seven Stars Restaurant"
+    },
+    "枪之柱": {
+        "chinese_name": "枪之柱",
+        "japanese_name": "槍の柱",
+        "english_name": "Spear Pillar"
+    },
+    "隐泉之路": {
+        "chinese_name": "隐泉之路",
+        "japanese_name": "隠れ泉への道",
+        "english_name": "Spring Path"
+    },
+    "严酷山": {
+        "chinese_name": "严酷山",
+        "japanese_name": "ハードマウンテン",
+        "english_name": "Stark Mountain"
+    },
+    "生存区": {
+        "chinese_name": "生存区",
+        "japanese_name": "サバイバルエリア",
+        "english_name": "Survival Area"
+    },
+    "归途洞窟": {
+        "chinese_name": "归途洞窟",
+        "japanese_name": "戻りの洞窟",
+        "english_name": "Turnback Cave"
+    },
+    "最自豪的后院": {
+        "chinese_name": "最自豪的后院",
+        "japanese_name": "自慢の裏庭",
+        "english_name": "Trophy Garden"
+    },
+    "山谷发电厂": {
+        "chinese_name": "山谷发电厂",
+        "japanese_name": "谷間の発電所",
+        "english_name": "Valley Windworks"
+    },
+    "导航灯塔": {
+        "chinese_name": "导航灯塔",
+        "japanese_name": "シルベの灯台",
+        "english_name": "Vista Lighthouse"
+    },
+    "迷幻洞窟": {
+        "chinese_name": "迷幻洞窟",
+        "japanese_name": "迷いの洞窟",
+        "english_name": "Wayward Cave"
+    },
+    "鹿子镇": {
+        "chinese_name": "鹿子镇",
+        "japanese_name": "カノコタウン",
+        "english_name": "Nuvema Town"
+    },
+    "唐草镇": {
+        "chinese_name": "唐草镇",
+        "japanese_name": "カラクサタウン",
+        "english_name": "Accumula Town"
+    },
+    "三曜市": {
+        "chinese_name": "三曜市",
+        "japanese_name": "サンヨウシティ",
+        "english_name": "Striaton City"
+    },
+    "七宝市": {
+        "chinese_name": "七宝市",
+        "japanese_name": "シッポウシティ",
+        "english_name": "Nacrene City"
+    },
+    "飞云市": {
+        "chinese_name": "飞云市",
+        "japanese_name": "ヒウンシティ",
+        "english_name": "Castelia City"
+    },
+    "雷文市": {
+        "chinese_name": "雷文市",
+        "japanese_name": "ライモンシティ",
+        "english_name": "Nimbasa City"
+    },
+    "帆巴市": {
+        "chinese_name": "帆巴市",
+        "japanese_name": "ホドモエシティ",
+        "english_name": "Driftveil City"
+    },
+    "吹寄市": {
+        "chinese_name": "吹寄市",
+        "japanese_name": "フキヨセシティ",
+        "english_name": "Mistralton City"
+    },
+    "雪花市": {
+        "chinese_name": "雪花市",
+        "japanese_name": "セッカシティ",
+        "english_name": "Icirrus City"
+    },
+    "金轮镇": {
+        "chinese_name": "金轮镇",
+        "japanese_name": "カナワタウン",
+        "english_name": "Anville Town"
+    },
+    "双龙市": {
+        "chinese_name": "双龙市",
+        "japanese_name": "ソウリュウシティ",
+        "english_name": "Opelucid City"
+    },
+    "笼目镇": {
+        "chinese_name": "笼目镇",
+        "japanese_name": "カゴメタウン",
+        "english_name": "Lacunosa Town"
+    },
+    "涟漪镇": {
+        "chinese_name": "涟漪镇",
+        "japanese_name": "サザナミタウン",
+        "english_name": "Undella Town"
+    },
+    "黑色市": {
+        "chinese_name": "黑色市",
+        "japanese_name": "ブラックシティ",
+        "english_name": "Black City"
+    },
+    "桧扇市": {
+        "chinese_name": "桧扇市",
+        "japanese_name": "ヒオウギシティ",
+        "english_name": "Aspertia City"
+    },
+    "算木镇": {
+        "chinese_name": "算木镇",
+        "japanese_name": "サンギタウン",
+        "english_name": "Floccesy Town"
+    },
+    "立涌市": {
+        "chinese_name": "立涌市",
+        "japanese_name": "タチワキシティ",
+        "english_name": "Virbank City"
+    },
+    "山路镇": {
+        "chinese_name": "山路镇",
+        "japanese_name": "ヤマジタウン",
+        "english_name": "Lentimas Town"
+    },
+    "青海波市": {
+        "chinese_name": "青海波市",
+        "japanese_name": "セイガイハシティ",
+        "english_name": "Humilau City"
+    },
+    "梦的遗址": {
+        "chinese_name": "梦的遗址",
+        "japanese_name": "夢の跡地",
+        "english_name": "Dreamyard"
+    },
+    "地下水脉之穴": {
+        "chinese_name": "地下水脉之穴",
+        "japanese_name": "地下水脈の穴",
+        "english_name": "Wellspring Cave"
+    },
+    "矢车森林": {
+        "chinese_name": "矢车森林",
+        "japanese_name": "ヤグルマの森",
+        "english_name": "Pinwheel Forest"
+    },
+    "天箭桥": {
+        "chinese_name": "天箭桥",
+        "japanese_name": "スカイアローブリッジ",
+        "english_name": "Skyarrow Bridge"
+    },
+    "自由庭园岛": {
+        "chinese_name": "自由庭园岛",
+        "japanese_name": "リバティガーデン島",
+        "english_name": "Liberty Garden"
+    },
+    "沙漠地带度假地": {
+        "chinese_name": "沙漠地带度假地",
+        "japanese_name": "リゾートデザート",
+        "english_name": "Desert Resort"
+    },
+    "古代城堡": {
+        "chinese_name": "古代城堡",
+        "japanese_name": "古代の城",
+        "english_name": "Relic Castle"
+    },
+    "对战地铁": {
+        "chinese_name": "对战地铁",
+        "japanese_name": "バトルサブウェイ",
+        "english_name": "Battle Subway"
+    },
+    "迷幻森林": {
+        "chinese_name": "迷幻森林",
+        "japanese_name": "迷いの森",
+        "english_name": "Winding Woods"
+    },
+    "帆巴吊桥": {
+        "chinese_name": "帆巴吊桥",
+        "japanese_name": "ホドモエの跳ね橋",
+        "english_name": "Driftveil Drawbridge"
+    },
+    "冷冻仓库": {
+        "chinese_name": "冷冻仓库",
+        "japanese_name": "冷凍コンテナ",
+        "english_name": "Cold Storage"
+    },
+    "吹寄洞穴": {
+        "chinese_name": "吹寄洞穴",
+        "japanese_name": "フキヨセの洞穴",
+        "english_name": "Mistralton Cave"
+    },
+    "电石洞穴": {
+        "chinese_name": "电石洞穴",
+        "japanese_name": "電気石の洞穴",
+        "english_name": "Chargestone Cave"
+    },
+    "天堂之塔": {
+        "chinese_name": "天堂之塔",
+        "japanese_name": "タワーオブヘブン",
+        "english_name": "Celestial Tower"
+    },
+    "罗斯山": {
+        "chinese_name": "罗斯山",
+        "japanese_name": "ネジ山",
+        "english_name": "Twist Mountain"
+    },
+    "龙螺旋之塔": {
+        "chinese_name": "龙螺旋之塔",
+        "japanese_name": "リュウラセンの塔",
+        "english_name": "Dragonspiral Tower"
+    },
+    "雪花湿地": {
+        "chinese_name": "雪花湿地",
+        "japanese_name": "セッカの湿原",
+        "english_name": "Moor of Icirrus"
+    },
+    "圆筒桥": {
+        "chinese_name": "圆筒桥",
+        "japanese_name": "シリンダーブリッジ",
+        "english_name": "Tubeline Bridge"
+    },
+    "修行岩洞": {
+        "chinese_name": "修行岩洞",
+        "japanese_name": "修行の岩屋",
+        "english_name": "Challenger's Cave"
+    },
+    "涟漪湾": {
+        "chinese_name": "涟漪湾",
+        "japanese_name": "サザナミ湾",
+        "english_name": "Undella Bay"
+    },
+    "海底遗迹": {
+        "chinese_name": "海底遗迹",
+        "japanese_name": "海底遺跡",
+        "english_name": "Abyssal Ruins"
+    },
+    "丰饶之社": {
+        "chinese_name": "丰饶之社",
+        "japanese_name": "ほうじょうの社",
+        "english_name": "Abundant Shrine"
+    },
+    "传送工厂": {
+        "chinese_name": "传送工厂",
+        "japanese_name": "シフトファクトリー",
+        "english_name": "Poké Transfer Lab"
+    },
+    "白色森林": {
+        "chinese_name": "白色森林",
+        "japanese_name": "ホワイトフォレスト",
+        "english_name": "White Forest"
+    },
+    "冠军之路（BW）": {
+        "chinese_name": "冠军之路（BW）",
+        "japanese_name": "チャンピオンロード",
+        "english_name": "Victory Road"
+    },
+    "Ｎ的城堡": {
+        "chinese_name": "Ｎ的城堡",
+        "japanese_name": "Ｎの城",
+        "english_name": "N's Castle"
+    },
+    "Ｐ２实验室": {
+        "chinese_name": "Ｐ２实验室",
+        "japanese_name": "Ｐ２ラボ",
+        "english_name": "P2 Laboratory"
+    },
+    "巨人洞窟": {
+        "chinese_name": "巨人洞窟",
+        "japanese_name": "ジャイアントホール",
+        "english_name": "Giant Chasm"
+    },
+    "村庄桥": {
+        "chinese_name": "村庄桥",
+        "japanese_name": "ビレッジブリッジ",
+        "english_name": "Village Bridge"
+    },
+    "奇幻桥": {
+        "chinese_name": "奇幻桥",
+        "japanese_name": "ワンダーブリッジ",
+        "english_name": "Marvelous Bridge"
+    },
+    "连入": {
+        "chinese_name": "连入",
+        "japanese_name": "ハイリンク",
+        "english_name": "Entralink"
+    },
+    "联合塔": {
+        "chinese_name": "联合塔",
+        "japanese_name": "ユナイテッドタワー",
+        "english_name": "Unity Tower"
+    },
+    "算木牧场": {
+        "chinese_name": "算木牧场",
+        "japanese_name": "サンギぼくじょう",
+        "english_name": "Floccesy Ranch"
+    },
+    "心之空洞": {
+        "chinese_name": "心之空洞",
+        "japanese_name": "心の空洞",
+        "english_name": "Cave of Being"
+    },
+    "誓约之林": {
+        "chinese_name": "誓约之林",
+        "japanese_name": "ちかいのはやし",
+        "english_name": "Pledge Grove"
+    },
+    "宝可梦好莱坞": {
+        "chinese_name": "宝可梦好莱坞",
+        "japanese_name": "ポケウッド",
+        "english_name": "Pokéstar Studios"
+    },
+    "立涌联合工业区": {
+        "chinese_name": "立涌联合工业区",
+        "japanese_name": "タチワキコンビナート",
+        "english_name": "Virbank Complex"
+    },
+    "飞云地下水道": {
+        "chinese_name": "飞云地下水道",
+        "japanese_name": "ヒウン下水道",
+        "english_name": "Castelia Sewers"
+    },
+    "古代小径": {
+        "chinese_name": "古代小径",
+        "japanese_name": "古代の抜け道",
+        "english_name": "Relic Passage"
+    },
+    "菊老大路": {
+        "chinese_name": "菊老大路",
+        "japanese_name": "ヤーコンロード",
+        "english_name": "Clay Tunnel"
+    },
+    "地底遗迹": {
+        "chinese_name": "地底遗迹",
+        "japanese_name": "地底遺跡",
+        "english_name": "Underground Ruins"
+    },
+    "反转山": {
+        "chinese_name": "反转山",
+        "japanese_name": "リバースマウンテン",
+        "english_name": "Reversal Mountain"
+    },
+    "海洋隧道": {
+        "chinese_name": "海洋隧道",
+        "japanese_name": "マリンチューブ",
+        "english_name": "Marine Tube"
+    },
+    "海边洞穴": {
+        "chinese_name": "海边洞穴",
+        "japanese_name": "海辺の洞穴",
+        "english_name": "Seaside Cave"
+    },
+    "等离子驱逐舰": {
+        "chinese_name": "等离子驱逐舰",
+        "japanese_name": "プラズマフリゲート",
+        "english_name": "Plasma Frigate"
+    },
+    "自然保护区": {
+        "chinese_name": "自然保护区",
+        "japanese_name": "自然保護区",
+        "english_name": "Nature Preserve"
+    },
+    "宝可梦世界锦标赛": {
+        "chinese_name": "宝可梦世界锦标赛",
+        "japanese_name": "ポケモンワールドトーナメント",
+        "english_name": "Pokémon World Tournament"
+    },
+    "乔英大道": {
+        "chinese_name": "乔英大道",
+        "japanese_name": "ジョインアベニュー",
+        "english_name": "Join Avenue"
+    },
+    "陌生者之屋": {
+        "chinese_name": "陌生者之屋",
+        "japanese_name": "ストレンジャハウス",
+        "english_name": "Strange House"
+    },
+    "朝香镇": {
+        "chinese_name": "朝香镇",
+        "japanese_name": "アサメタウン",
+        "english_name": "Vaniville Town"
+    },
+    "名水镇": {
+        "chinese_name": "名水镇",
+        "japanese_name": "メイスイタウン",
+        "english_name": "Aquacorde Town"
+    },
+    "白檀市": {
+        "chinese_name": "白檀市",
+        "japanese_name": "ハクダンシティ",
+        "english_name": "Santalune City"
+    },
+    "古木镇": {
+        "chinese_name": "古木镇",
+        "japanese_name": "コボクタウン",
+        "english_name": "Camphrier Town"
+    },
+    "遥香市": {
+        "chinese_name": "遥香市",
+        "japanese_name": "ショウヨウシティ",
+        "english_name": "Cyllage City"
+    },
+    "石香镇": {
+        "chinese_name": "石香镇",
+        "japanese_name": "セキタイタウン",
+        "english_name": "Geosenge Town"
+    },
+    "古香镇": {
+        "chinese_name": "古香镇",
+        "japanese_name": "コウジンタウン",
+        "english_name": "Ambrette Town"
+    },
+    "娑罗市": {
+        "chinese_name": "娑罗市",
+        "japanese_name": "シャラシティ",
+        "english_name": "Shalour City"
+    },
+    "比翼市": {
+        "chinese_name": "比翼市",
+        "japanese_name": "ヒヨクシティ",
+        "english_name": "Coumarine City"
+    },
+    "密阿雷市": {
+        "chinese_name": "密阿雷市",
+        "japanese_name": "ミアレシティ",
+        "english_name": "Lumiose City"
+    },
+    "香薰市": {
+        "chinese_name": "香薰市",
+        "japanese_name": "クノエシティ",
+        "english_name": "Laverre City"
+    },
+    "风絮镇": {
+        "chinese_name": "风絮镇",
+        "japanese_name": "フウジョタウン",
+        "english_name": "Dendemille Town"
+    },
+    "百刻市": {
+        "chinese_name": "百刻市",
+        "japanese_name": "ヒャッコクシティ",
+        "english_name": "Anistar City"
+    },
+    "连理镇": {
+        "chinese_name": "连理镇",
+        "japanese_name": "レンリタウン",
+        "english_name": "Couriway Town"
+    },
+    "映雪市": {
+        "chinese_name": "映雪市",
+        "japanese_name": "エイセツシティ",
+        "english_name": "Snowbelle City"
+    },
+    "奇楠市": {
+        "chinese_name": "奇楠市",
+        "japanese_name": "キナンシティ",
+        "english_name": "Kiloude City"
+    },
+    "朝香小径": {
+        "chinese_name": "朝香小径",
+        "japanese_name": "アサメの小道",
+        "english_name": "Vaniville Pathway"
+    },
+    "前进道路": {
+        "chinese_name": "前进道路",
+        "japanese_name": "アバンセ通り",
+        "english_name": "Avance Trail"
+    },
+    "开阔道路": {
+        "chinese_name": "开阔道路",
+        "japanese_name": "ウベール通り",
+        "english_name": "Ouvert Way"
+    },
+    "庭园街道": {
+        "chinese_name": "庭园街道",
+        "japanese_name": "パルテール街道",
+        "english_name": "Parterre Way"
+    },
+    "斜坡道路": {
+        "chinese_name": "斜坡道路",
+        "japanese_name": "ベルサン通り",
+        "english_name": "Versant Road"
+    },
+    "宫殿林荫道": {
+        "chinese_name": "宫殿林荫道",
+        "japanese_name": "パレの并木道",
+        "english_name": "Palais Lane"
+    },
+    "环河小径": {
+        "chinese_name": "环河小径",
+        "japanese_name": "リビエールライン",
+        "english_name": "Rivière Walk"
+    },
+    "岩壁海岸": {
+        "chinese_name": "岩壁海岸",
+        "japanese_name": "ミュライユ海岸",
+        "english_name": "Muraille Coast"
+    },
+    "刺刺山道": {
+        "chinese_name": "刺刺山道",
+        "japanese_name": "トゲトゲ山道",
+        "english_name": "Spikes Passage"
+    },
+    "巨石路": {
+        "chinese_name": "巨石路",
+        "japanese_name": "メンヒルロード",
+        "english_name": "Menhir Trail"
+    },
+    "明镜道路": {
+        "chinese_name": "明镜道路",
+        "japanese_name": "ミロワール通り",
+        "english_name": "Miroir Way"
+    },
+    "牧场道路": {
+        "chinese_name": "牧场道路",
+        "japanese_name": "フラージュ通り",
+        "english_name": "Fourrage Road"
+    },
+    "密阿雷的荒野": {
+        "chinese_name": "密阿雷的荒野",
+        "japanese_name": "ミアレの荒野",
+        "english_name": "Lumiose Badlands"
+    },
+    "香薰林道": {
+        "chinese_name": "香薰林道",
+        "japanese_name": "クノエの林道",
+        "english_name": "Laverre Nature Trail"
+    },
+    "褐棕道路": {
+        "chinese_name": "褐棕道路",
+        "japanese_name": "ブラン通り",
+        "english_name": "Brun Way"
+    },
+    "忧郁道路": {
+        "chinese_name": "忧郁道路",
+        "japanese_name": "トリスト通り",
+        "english_name": "Mélancolie Path"
+    },
+    "象牙猪路": {
+        "chinese_name": "象牙猪路",
+        "japanese_name": "マンムー·ロード",
+        "english_name": "Mamoswine Road"
+    },
+    "峡谷道路": {
+        "chinese_name": "峡谷道路",
+        "japanese_name": "エトロワ·バレ通り",
+        "english_name": "Vallée Étroite Way"
+    },
+    "巨谷道路": {
+        "chinese_name": "巨谷道路",
+        "japanese_name": "ラルジュ·バレ通り",
+        "english_name": "Grande Vallée Way"
+    },
+    "最后道路": {
+        "chinese_name": "最后道路",
+        "japanese_name": "デルニエ通り",
+        "english_name": "Dernière Way"
+    },
+    "绕行道路": {
+        "chinese_name": "绕行道路",
+        "japanese_name": "デトルネ通り",
+        "english_name": "Détournet Way"
+    },
+    "白檀森林": {
+        "chinese_name": "白檀森林",
+        "japanese_name": "ハクダンの森",
+        "english_name": "Santalune Forest"
+    },
+    "虚空之间": {
+        "chinese_name": "虚空之间",
+        "japanese_name": "空ろの间",
+        "english_name": "Chamber of Emptiness"
+    },
+    "巴尔法姆香殿": {
+        "chinese_name": "巴尔法姆香殿",
+        "japanese_name": "パルファム宫殿",
+        "english_name": "Parfum Palace"
+    },
+    "对战城堡": {
+        "chinese_name": "对战城堡",
+        "japanese_name": "バトルシャトー",
+        "english_name": "Battle Chateau"
+    },
+    "树果园": {
+        "chinese_name": "树果园",
+        "japanese_name": "きのみ畑",
+        "english_name": "Berry Fields"
+    },
+    "串连地洞": {
+        "chinese_name": "串连地洞",
+        "japanese_name": "地つなぎの洞穴",
+        "english_name": "Connecting Cave"
+    },
+    "闪耀洞窟": {
+        "chinese_name": "闪耀洞窟",
+        "japanese_name": "辉きの洞窟",
+        "english_name": "Glittering Cave"
+    },
+    "镜穴": {
+        "chinese_name": "镜穴",
+        "japanese_name": "映し身の洞窟",
+        "english_name": "Reflection Cave"
+    },
+    "精练之塔": {
+        "chinese_name": "精练之塔",
+        "japanese_name": "マスタータワー",
+        "english_name": "Tower of Mastery"
+    },
+    "蔚蓝湾": {
+        "chinese_name": "蔚蓝湾",
+        "japanese_name": "アズール湾",
+        "english_name": "Azure Bay"
+    },
+    "海神之穴": {
+        "chinese_name": "海神之穴",
+        "japanese_name": "海神の穴",
+        "english_name": "Sea Spirit's Den"
+    },
+    "卡洛斯发电厂": {
+        "chinese_name": "卡洛斯发电厂",
+        "japanese_name": "カロス発电所",
+        "english_name": "Kalos Power Plant"
+    },
+    "精灵球工厂": {
+        "chinese_name": "精灵球工厂",
+        "japanese_name": "ボール工场",
+        "english_name": "Poké Ball Factory"
+    },
+    "荒废饭店": {
+        "chinese_name": "荒废饭店",
+        "japanese_name": "荒れ果てホテル",
+        "english_name": "Lost Hotel"
+    },
+    "冰结洞窟": {
+        "chinese_name": "冰结洞窟",
+        "japanese_name": "フロストケイブ",
+        "english_name": "Frost Cavern"
+    },
+    "弗拉达利研究所": {
+        "chinese_name": "弗拉达利研究所",
+        "japanese_name": "フラダリラボ",
+        "english_name": "Lysandre Labs"
+    },
+    "闪焰队秘密基地": {
+        "chinese_name": "闪焰队秘密基地",
+        "japanese_name": "フレア団秘密基地",
+        "english_name": "Team Flare HQ"
+    },
+    "终结洞窟": {
+        "chinese_name": "终结洞窟",
+        "japanese_name": "エンドケイブ",
+        "english_name": "Resolution Cave"
+    },
+    "宝可梦村": {
+        "chinese_name": "宝可梦村",
+        "japanese_name": "ポケモンの村",
+        "english_name": "Pokémon Village"
+    },
+    "无名洞窟": {
+        "chinese_name": "无名洞窟",
+        "japanese_name": "ななしの洞窟",
+        "english_name": "Unknown Dungeon"
+    },
+    "对战宅第": {
+        "chinese_name": "对战宅第",
+        "japanese_name": "バトルハウス",
+        "english_name": "Battle Maison"
+    },
+    "朋友狩猎": {
+        "chinese_name": "朋友狩猎",
+        "japanese_name": "フレンドサファリ",
+        "english_name": "Friend Safari"
+    },
+    "美乐美乐岛": {
+        "chinese_name": "美乐美乐岛",
+        "japanese_name": "メレメレ岛",
+        "english_name": "Melemele Island"
+    },
+    "阿卡拉岛": {
+        "chinese_name": "阿卡拉岛",
+        "japanese_name": "アーカラ岛",
+        "english_name": "Akala Island"
+    },
+    "乌拉乌拉岛": {
+        "chinese_name": "乌拉乌拉岛",
+        "japanese_name": "ウラウラ岛",
+        "english_name": "Ula'ula Island"
+    },
+    "波尼岛": {
+        "chinese_name": "波尼岛",
+        "japanese_name": "ポニ岛",
+        "english_name": "Poni Island"
+    },
+    "以太乐园": {
+        "chinese_name": "以太乐园",
+        "japanese_name": "エーテルパラダイス",
+        "english_name": "Aether Paradise"
+    },
+    "利利小镇": {
+        "chinese_name": "利利小镇",
+        "japanese_name": "リリィタウン",
+        "english_name": "Iki Town"
+    },
+    "好奥乐市": {
+        "chinese_name": "好奥乐市",
+        "japanese_name": "ハウオリシティ",
+        "english_name": "Hau'oli City"
+    },
+    "海滩区": {
+        "chinese_name": "海滩区",
+        "japanese_name": "ビーチサイドエリア",
+        "english_name": "Beachfront"
+    },
+    "商业区": {
+        "chinese_name": "商业区",
+        "japanese_name": "ショッピングエリア",
+        "english_name": "Shopping District"
+    },
+    "港口区": {
+        "chinese_name": "港口区",
+        "japanese_name": "ポートエリア",
+        "english_name": "Marina"
+    },
+    "慷待市": {
+        "chinese_name": "慷待市",
+        "japanese_name": "カンタイシティ",
+        "english_name": "Heahea City"
+    },
+    "欧哈纳镇": {
+        "chinese_name": "欧哈纳镇",
+        "japanese_name": "オハナタウン",
+        "english_name": "Paniola Town"
+    },
+    "可霓可市": {
+        "chinese_name": "可霓可市",
+        "japanese_name": "コニコシティ",
+        "english_name": "Konikoni City"
+    },
+    "魄镇": {
+        "chinese_name": "魄镇",
+        "japanese_name": "ポータウン",
+        "english_name": "Po Town"
+    },
+    "卡璞村": {
+        "chinese_name": "卡璞村",
+        "japanese_name": "カプの村",
+        "english_name": "Tapu Village"
+    },
+    "马利埃静市": {
+        "chinese_name": "马利埃静市",
+        "japanese_name": "マリエシティ",
+        "english_name": "Malie City"
+    },
+    "市郊海角": {
+        "chinese_name": "市郊海角",
+        "japanese_name": "はずれの岬",
+        "english_name": "Outer Cape"
+    },
+    "海洋居民之村": {
+        "chinese_name": "海洋居民之村",
+        "japanese_name": "海の民の村",
+        "english_name": "Seafolk Village"
+    },
+    "１号道路": {
+        "chinese_name": "１号道路",
+        "japanese_name": "１番道路",
+        "english_name": "Route 1"
+    },
+    "好奥乐市郊": {
+        "chinese_name": "好奥乐市郊",
+        "japanese_name": "ハウオリシティはずれ",
+        "english_name": "Hau'oli Outskirts"
+    },
+    "波尼古道": {
+        "chinese_name": "波尼古道",
+        "japanese_name": "ポニの古道",
+        "english_name": "Ancient Poni Path"
+    },
+    "波尼险路": {
+        "chinese_name": "波尼险路",
+        "japanese_name": "ポニの険路",
+        "english_name": "Poni Gauntlet"
+    },
+    "葱郁洞窟": {
+        "chinese_name": "葱郁洞窟",
+        "japanese_name": "茂みの洞窟",
+        "english_name": "Verdant Cavern"
+    },
+    "考验之地": {
+        "chinese_name": "考验之地",
+        "japanese_name": "试练の间",
+        "english_name": "Trial Site"
+    },
+    "霸主居处": {
+        "chinese_name": "霸主居处",
+        "japanese_name": "ぬしの间",
+        "english_name": "Totem's Den"
+    },
+    "维拉火山公园": {
+        "chinese_name": "维拉火山公园",
+        "japanese_name": "ヴェラ火山公园",
+        "english_name": "Wela Volcano Park"
+    },
+    "潺潺之丘": {
+        "chinese_name": "潺潺之丘",
+        "japanese_name": "せせらぎの丘",
+        "english_name": "Brooklet Hill"
+    },
+    "树荫丛林": {
+        "chinese_name": "树荫丛林",
+        "japanese_name": "シェードジャングル",
+        "english_name": "Lush Jungle"
+    },
+    "超值超市": {
+        "chinese_name": "超值超市",
+        "japanese_name": "スーパー・メガやす",
+        "english_name": "Thrifty Megamart"
+    },
+    "旧址": {
+        "chinese_name": "旧址",
+        "japanese_name": "迹地",
+        "english_name": "Abandoned Site"
+    },
+    "辉克拉尼天文台": {
+        "chinese_name": "辉克拉尼天文台",
+        "japanese_name": "ホクラニ天文台",
+        "english_name": "Hokulani Observatory"
+    },
+    "波尼大峡谷": {
+        "chinese_name": "波尼大峡谷",
+        "japanese_name": "ポニの大峡谷",
+        "english_name": "Vast Poni Canyon"
+    },
+    "卡拉蔚湾": {
+        "chinese_name": "卡拉蔚湾",
+        "japanese_name": "カーラエ湾",
+        "english_name": "Kala'e Bay"
+    },
+    "美乐美乐海": {
+        "chinese_name": "美乐美乐海",
+        "japanese_name": "メレメレ海",
+        "english_name": "Melemele Sea"
+    },
+    "马哈罗山路": {
+        "chinese_name": "马哈罗山路",
+        "japanese_name": "マハロ山道",
+        "english_name": "Mahalo TrailPlank"
+    },
+    "吊桥": {
+        "chinese_name": "吊桥",
+        "japanese_name": "吊り桥",
+        "english_name": "Bridge"
+    },
+    "战争遗迹": {
+        "chinese_name": "战争遗迹",
+        "japanese_name": "戦の遗迹",
+        "english_name": "Ruins of Conflict"
+    },
+    "十克拉山丘": {
+        "chinese_name": "十克拉山丘",
+        "japanese_name": "テンカラットヒル",
+        "english_name": "Ten Carat Hill"
+    },
+    "最深处的空洞": {
+        "chinese_name": "最深处的空洞",
+        "japanese_name": "最奥空洞",
+        "english_name": "Farthest Hollow"
+    },
+    "好奥乐墓园": {
+        "chinese_name": "好奥乐墓园",
+        "japanese_name": "ハウオリ霊园",
+        "english_name": "Hau'oli Cemetery"
+    },
+    "美乐美乐花园": {
+        "chinese_name": "美乐美乐花园",
+        "japanese_name": "メレメレの花园",
+        "english_name": "Melemele Meadow"
+    },
+    "通海洞穴": {
+        "chinese_name": "通海洞穴",
+        "japanese_name": "海繋ぎの洞穴",
+        "english_name": "Seaward Cave"
+    },
+    "大浪海滩USUM": {
+        "chinese_name": "大浪海滩USUM",
+        "japanese_name": "ビッグヴェーブビーチ",
+        "english_name": "Big Wave Beach"
+    },
+    "豪诺豪诺度假地": {
+        "chinese_name": "豪诺豪诺度假地",
+        "japanese_name": "ハノハノリゾート",
+        "english_name": "Hano Grand Resort"
+    },
+    "豪诺豪诺海滩": {
+        "chinese_name": "豪诺豪诺海滩",
+        "japanese_name": "ハノハノビーチ",
+        "english_name": "Hano Beach"
+    },
+    "皇家大道": {
+        "chinese_name": "皇家大道",
+        "japanese_name": "ロイヤルアベニュー",
+        "english_name": "Royal Avenue"
+    },
+    "回忆之丘": {
+        "chinese_name": "回忆之丘",
+        "japanese_name": "メモリアルヒル",
+        "english_name": "Memorial Hill"
+    },
+    "欧哈纳牧场": {
+        "chinese_name": "欧哈纳牧场",
+        "japanese_name": "オハナ牧场",
+        "english_name": "Paniola Ranch"
+    },
+    "皮卡丘山谷USUM": {
+        "chinese_name": "皮卡丘山谷USUM",
+        "japanese_name": "ピカチュウのたに",
+        "english_name": "Pikachu Valley"
+    },
+    "分隔岭隧道": {
+        "chinese_name": "分隔岭隧道",
+        "japanese_name": "ワカツダケトンネル",
+        "english_name": "Dividing Peak Tunnel"
+    },
+    "生命遗迹": {
+        "chinese_name": "生命遗迹",
+        "japanese_name": "命の遗迹",
+        "english_name": "Ruins of Life"
+    },
+    "阿卡拉岛郊外": {
+        "chinese_name": "阿卡拉岛郊外",
+        "japanese_name": "アーカラ岛はずれ",
+        "english_name": "Akala Outskirts"
+    },
+    "地鼠隧道": {
+        "chinese_name": "地鼠隧道",
+        "japanese_name": "ディグダトンネル",
+        "english_name": "Diglett's Tunnel"
+    },
+    "皇家巨蛋": {
+        "chinese_name": "皇家巨蛋",
+        "japanese_name": "ロイヤルドーム",
+        "english_name": "Battle Royal Dome"
+    },
+    "慷待海滩USUM": {
+        "chinese_name": "慷待海滩USUM",
+        "japanese_name": "カンタイビーチ",
+        "english_name": "Heahea Beach"
+    },
+    "乌拉乌拉后海岸": {
+        "chinese_name": "乌拉乌拉后海岸",
+        "japanese_name": "ウラウラ里海岸",
+        "english_name": "Secluded Shore"
+    },
+    "乌拉乌拉海滩USUM": {
+        "chinese_name": "乌拉乌拉海滩USUM",
+        "japanese_name": "ウラウラビーチ",
+        "english_name": "Ula'ula Beach"
+    },
+    "哈伊纳沙漠": {
+        "chinese_name": "哈伊纳沙漠",
+        "japanese_name": "ハイナ砂漠",
+        "english_name": "Haina Desert"
+    },
+    "以太基地": {
+        "chinese_name": "以太基地",
+        "japanese_name": "エーテルベース",
+        "english_name": "Aether Base"
+    },
+    "乌拉乌拉花园": {
+        "chinese_name": "乌拉乌拉花园",
+        "japanese_name": "ウラウラの花园",
+        "english_name": "Ula'ula Meadow"
+    },
+    "马利埃庭园": {
+        "chinese_name": "马利埃庭园",
+        "japanese_name": "マリエ庭园",
+        "english_name": "Malie Garden"
+    },
+    "辉克拉尼山": {
+        "chinese_name": "辉克拉尼山",
+        "japanese_name": "ホクラニ岳",
+        "english_name": "Mount Hokulani"
+    },
+    "火特力山": {
+        "chinese_name": "火特力山",
+        "japanese_name": "ホテリ山",
+        "english_name": "Blush Mountain"
+    },
+    "丰收遗迹": {
+        "chinese_name": "丰收遗迹",
+        "japanese_name": "実りの遗迹",
+        "english_name": "Ruins of Abundance"
+    },
+    "日轮湖": {
+        "chinese_name": "日轮湖",
+        "japanese_name": "日轮の湖",
+        "english_name": "Lake of the Sunne"
+    },
+    "月轮湖": {
+        "chinese_name": "月轮湖",
+        "japanese_name": "月轮の湖",
+        "english_name": "Lake of the Moone"
+    },
+    "拉纳基拉山": {
+        "chinese_name": "拉纳基拉山",
+        "japanese_name": "ラナキラマウンテン",
+        "english_name": "Mount Lanakila"
+    },
+    "可疑宅邸": {
+        "chinese_name": "可疑宅邸",
+        "japanese_name": "いかがわしき屋敷",
+        "english_name": "Shady House"
+    },
+    "宝可梦联盟": {
+        "chinese_name": "宝可梦联盟",
+        "japanese_name": "ポケモンリーグ",
+        "english_name": "Pokémon League"
+    },
+    "波尼花园": {
+        "chinese_name": "波尼花园",
+        "japanese_name": "ポニの花园",
+        "english_name": "Poni Meadow"
+    },
+    "波尼原野": {
+        "chinese_name": "波尼原野",
+        "japanese_name": "ポニの原野",
+        "english_name": "Poni Wilds"
+    },
+    "波尼鼓浪岩岸": {
+        "chinese_name": "波尼鼓浪岩岸",
+        "japanese_name": "ポニの荒矶",
+        "english_name": "Poni Breaker Coast"
+    },
+    "波尼树林": {
+        "chinese_name": "波尼树林",
+        "japanese_name": "ポニの树林",
+        "english_name": "Poni Grove"
+    },
+    "波尼旷野": {
+        "chinese_name": "波尼旷野",
+        "japanese_name": "ポニの広野",
+        "english_name": "Poni Plains"
+    },
+    "波尼海岸": {
+        "chinese_name": "波尼海岸",
+        "japanese_name": "ポニの海岸",
+        "english_name": "Poni Coast"
+    },
+    "波尼海滩USUM": {
+        "chinese_name": "波尼海滩USUM",
+        "japanese_name": "ポニのビーチ",
+        "english_name": "Poni Beach"
+    },
+    "日轮祭坛": {
+        "chinese_name": "日轮祭坛",
+        "japanese_name": "日轮の祭坛",
+        "english_name": "Altar of the Sunne"
+    },
+    "月轮祭坛": {
+        "chinese_name": "月轮祭坛",
+        "japanese_name": "月轮の祭坛",
+        "english_name": "Altar of the Moone"
+    },
+    "彼岸遗迹": {
+        "chinese_name": "彼岸遗迹",
+        "japanese_name": "彼岸の遗迹",
+        "english_name": "Ruins of Hope"
+    },
+    "化朗镇": {
+        "chinese_name": "化朗镇",
+        "japanese_name": "ハロンタウン",
+        "english_name": "Postwick"
+    },
+    "木杆镇": {
+        "chinese_name": "木杆镇",
+        "japanese_name": "ブラッシータウン",
+        "english_name": "Wedgehurst"
+    },
+    "机擎市": {
+        "chinese_name": "机擎市",
+        "japanese_name": "エンジンシティ",
+        "english_name": "Motostoke"
+    },
+    "草路镇": {
+        "chinese_name": "草路镇",
+        "japanese_name": "ターフタウン",
+        "english_name": "Turffield"
+    },
+    "水舟镇": {
+        "chinese_name": "水舟镇",
+        "japanese_name": "バウタウン",
+        "english_name": "Hulbury"
+    },
+    "拳关市": {
+        "chinese_name": "拳关市",
+        "japanese_name": "ナックルシティ",
+        "english_name": "Hammerlocke"
+    },
+    "溯传镇": {
+        "chinese_name": "溯传镇",
+        "japanese_name": "ラテラルタウン",
+        "english_name": "Stow-on-Side"
+    },
+    "舞姿镇": {
+        "chinese_name": "舞姿镇",
+        "japanese_name": "アラベスクタウン",
+        "english_name": "Ballonlea"
+    },
+    "战竞镇": {
+        "chinese_name": "战竞镇",
+        "japanese_name": "キルクスタウン",
+        "english_name": "Circhester"
+    },
+    "尖钉镇": {
+        "chinese_name": "尖钉镇",
+        "japanese_name": "スパイクタウン",
+        "english_name": "Spikemuth"
+    },
+    "宫门市": {
+        "chinese_name": "宫门市",
+        "japanese_name": "シュートシティ",
+        "english_name": "Wyndon"
+    },
+    "微寐森林": {
+        "chinese_name": "微寐森林",
+        "japanese_name": "まどろみの森",
+        "english_name": "Slumbering Weald"
+    },
+    "伽勒尔矿山": {
+        "chinese_name": "伽勒尔矿山",
+        "japanese_name": "ガラル鉱山",
+        "english_name": "Galar Mine"
+    },
+    "机擎市郊外": {
+        "chinese_name": "机擎市郊外",
+        "japanese_name": "エンジンシティはずれ",
+        "english_name": "Motostoke Outskirts"
+    },
+    "第二矿山": {
+        "chinese_name": "第二矿山",
+        "japanese_name": "第二鉱山",
+        "english_name": "Galar Mine No. 2"
+    },
+    "能源工厂": {
+        "chinese_name": "能源工厂",
+        "japanese_name": "エネルギープラント",
+        "english_name": "Energy Plant"
+    },
+    "塔顶": {
+        "chinese_name": "塔顶",
+        "japanese_name": "タワートップ",
+        "english_name": "Tower Summit"
+    },
+    "迷光森林": {
+        "chinese_name": "迷光森林",
+        "japanese_name": "ルミナスメイズの森",
+        "english_name": "Glimwood Tangle"
+    },
+    "泉烟小路": {
+        "chinese_name": "泉烟小路",
+        "japanese_name": "ゆけむり小道",
+        "english_name": "Steamdrift Way"
+    },
+    "战竞湾": {
+        "chinese_name": "战竞湾",
+        "japanese_name": "キルクスのいりえ",
+        "english_name": "Circhester Bay"
+    },
+    "尖钉镇郊外": {
+        "chinese_name": "尖钉镇郊外",
+        "japanese_name": "スパイクタウンはずれ",
+        "english_name": "Outer Spikemuth"
+    },
+    "九路隧道": {
+        "chinese_name": "九路隧道",
+        "japanese_name": "ルートナイントンネル",
+        "english_name": "Route 9 Tunnel"
+    },
+    "宝物库": {
+        "chinese_name": "宝物库",
+        "japanese_name": "宝物库",
+        "english_name": "the vault"
+    },
+    "宫门竞技场": {
+        "chinese_name": "宫门竞技场",
+        "japanese_name": "シュートスタジアム",
+        "english_name": "Wyndon Stadium"
+    },
+    "含羞苞旅店": {
+        "chinese_name": "含羞苞旅店",
+        "japanese_name": "スボミー・イン",
+        "english_name": "Budew Drop Inn"
+    },
+    "对战咖啡馆": {
+        "chinese_name": "对战咖啡馆",
+        "japanese_name": "バトルカフェ",
+        "english_name": "the Battle Cafe"
+    },
+    "洛兹大厦": {
+        "chinese_name": "洛兹大厦",
+        "japanese_name": "ローズタワービル",
+        "english_name": "Rose Tower"
+    },
+    "集汇空地": {
+        "chinese_name": "集汇空地",
+        "japanese_name": "集いの空き地",
+        "english_name": "Meetup Spot"
+    },
+    "煦丽草原": {
+        "chinese_name": "煦丽草原",
+        "japanese_name": "うららか草原",
+        "english_name": "Rolling Fields"
+    },
+    "沐光森林": {
+        "chinese_name": "沐光森林",
+        "japanese_name": "こもれび林",
+        "english_name": "Dappled Grove"
+    },
+    "瞭望塔旧址": {
+        "chinese_name": "瞭望塔旧址",
+        "japanese_name": "みはりとう迹地",
+        "english_name": "Watchtower Ruins"
+    },
+    "牙牙湖东岸": {
+        "chinese_name": "牙牙湖东岸",
+        "japanese_name": "キバ湖・东",
+        "english_name": "East Lake Axewell"
+    },
+    "牙牙湖西岸": {
+        "chinese_name": "牙牙湖西岸",
+        "japanese_name": "キバ湖・西",
+        "english_name": "West Lake Axewell"
+    },
+    "牙牙湖之眼": {
+        "chinese_name": "牙牙湖之眼",
+        "japanese_name": "キバ湖の瞳",
+        "english_name": "Axew's Eye"
+    },
+    "美纳斯湖南岸": {
+        "chinese_name": "美纳斯湖南岸",
+        "japanese_name": "ミロカロ湖・南",
+        "english_name": "South Lake Miloch"
+    },
+    "巨人凳岩": {
+        "chinese_name": "巨人凳岩",
+        "japanese_name": "巨人のこしかけ",
+        "english_name": "Giant's Seat"
+    },
+    "美纳斯湖北岸": {
+        "chinese_name": "美纳斯湖北岸",
+        "japanese_name": "ミロカロ湖・北",
+        "english_name": "North Lake Miloch"
+    },
+    "机擎河岸": {
+        "chinese_name": "机擎河岸",
+        "japanese_name": "エンジンリバーサイド",
+        "english_name": "Motostoke Riverbank"
+    },
+    "桥间空地": {
+        "chinese_name": "桥间空地",
+        "japanese_name": "ハシノマはらっぱ",
+        "english_name": "Bridge Field"
+    },
+    "巨石原野": {
+        "chinese_name": "巨石原野",
+        "japanese_name": "ストーンズ原野",
+        "english_name": "Stony Wilderness"
+    },
+    "沙尘洼地": {
+        "chinese_name": "沙尘洼地",
+        "japanese_name": "砂尘の洼地",
+        "english_name": "Dusty Bowl"
+    },
+    "巨人镜池": {
+        "chinese_name": "巨人镜池",
+        "japanese_name": "巨人の镜池",
+        "english_name": "Giant's Mirror"
+    },
+    "拳关丘陵": {
+        "chinese_name": "拳关丘陵",
+        "japanese_name": "ナックル丘陵",
+        "english_name": "Hammerlocke Hills"
+    },
+    "巨人帽岩": {
+        "chinese_name": "巨人帽岩",
+        "japanese_name": "巨人のぼうし",
+        "english_name": "Giant's Cap"
+    },
+    "逆鳞湖": {
+        "chinese_name": "逆鳞湖",
+        "japanese_name": "逆鳞の湖",
+        "english_name": "Lake of Outrage"
+    },
+    "铠岛": {
+        "chinese_name": "铠岛",
+        "japanese_name": "ヨロイじま",
+        "english_name": "Isle of Armor"
+    },
+    "揖礼原野": {
+        "chinese_name": "揖礼原野",
+        "japanese_name": "一礼野原",
+        "english_name": "Fields of Honor"
+    },
+    "清凉湿原": {
+        "chinese_name": "清凉湿原",
+        "japanese_name": "清涼湿原",
+        "english_name": "Soothing Wetlands"
+    },
+    "专注森林": {
+        "chinese_name": "专注森林",
+        "japanese_name": "集中の森",
+        "english_name": "Forest of Focus"
+    },
+    "挑战海滩": {
+        "chinese_name": "挑战海滩",
+        "japanese_name": "チャレンジビーチ",
+        "english_name": "Challenge Beach"
+    },
+    "战斗洞窟": {
+        "chinese_name": "战斗洞窟",
+        "japanese_name": "ファイトケイブ",
+        "english_name": "Brawlers’ Cave"
+    },
+    "挑战之路": {
+        "chinese_name": "挑战之路",
+        "japanese_name": "チャレンジロード",
+        "english_name": "Challenge Road"
+    },
+    "斗志洞窟": {
+        "chinese_name": "斗志洞窟",
+        "japanese_name": "闘心の洞窟",
+        "english_name": "Courageous Cavern"
+    },
+    "圆环海湾": {
+        "chinese_name": "圆环海湾",
+        "japanese_name": "円環の入り江",
+        "english_name": "Loop Lagoon"
+    },
+    "锻炼平原": {
+        "chinese_name": "锻炼平原",
+        "japanese_name": "鍛錬平原",
+        "english_name": "Training Lowlands"
+    },
+    "热身洞穴": {
+        "chinese_name": "热身洞穴",
+        "japanese_name": "慣らしの洞穴",
+        "english_name": "Warm-Up Tunnel"
+    },
+    "锅底沙漠": {
+        "chinese_name": "锅底沙漠",
+        "japanese_name": "锅底砂漠",
+        "english_name": "Potbottom Desert"
+    },
+    "健身之海": {
+        "chinese_name": "健身之海",
+        "japanese_name": "ワークアウトの海",
+        "english_name": "Workout Sea"
+    },
+    "列岛海域": {
+        "chinese_name": "列岛海域",
+        "japanese_name": "并ぶ島の海",
+        "english_name": "Stepping-Stone Sea"
+    },
+    "离岛海域": {
+        "chinese_name": "离岛海域",
+        "japanese_name": "離れ島海域",
+        "english_name": "Insular Sea"
+    },
+    "蜂巢海": {
+        "chinese_name": "蜂巢海",
+        "japanese_name": "ハニカームの海",
+        "english_name": "Honeycalm Sea"
+    },
+    "蜂巢岛": {
+        "chinese_name": "蜂巢岛",
+        "japanese_name": "ハニカーム島",
+        "english_name": "Honeycalm Island"
+    },
+    "马师傅武馆": {
+        "chinese_name": "马师傅武馆",
+        "japanese_name": "マスター道場",
+        "english_name": "Master Dojo"
+    },
+    "恶之塔": {
+        "chinese_name": "恶之塔",
+        "japanese_name": "あくの塔",
+        "english_name": "Tower of Darkness"
+    },
+    "水之塔": {
+        "chinese_name": "水之塔",
+        "japanese_name": "みずの塔",
+        "english_name": "Tower of Waters"
+    },
+    "王冠雪原": {
+        "chinese_name": "王冠雪原",
+        "japanese_name": "カンムリ雪原",
+        "english_name": "Crown Tundra"
+    },
+    "起橇雪原": {
+        "chinese_name": "起橇雪原",
+        "japanese_name": "滑り出し雪原",
+        "english_name": "Slippery Slope"
+    },
+    "冻凝村": {
+        "chinese_name": "冻凝村",
+        "japanese_name": "フリーズ村",
+        "english_name": "Freezington"
+    },
+    "冰点雪原": {
+        "chinese_name": "冰点雪原",
+        "japanese_name": "氷点雪原",
+        "english_name": "Frostpoint Field"
+    },
+    "巨人睡榻": {
+        "chinese_name": "巨人睡榻",
+        "japanese_name": "巨人の寝床",
+        "english_name": "Giant's Bed"
+    },
+    "远古墓地": {
+        "chinese_name": "远古墓地",
+        "japanese_name": "いにしえの墓地",
+        "english_name": "Old Cemetery"
+    },
+    "雪中溪谷": {
+        "chinese_name": "雪中溪谷",
+        "japanese_name": "雪中渓谷",
+        "english_name": "Snowslide Slope"
+    },
+    "登顶隧道": {
+        "chinese_name": "登顶隧道",
+        "japanese_name": "登頂トンネル",
+        "english_name": "Tunnel to the Top"
+    },
+    "通顶雪道": {
+        "chinese_name": "通顶雪道",
+        "japanese_name": "頂への雪道",
+        "english_name": "Path to the Peak"
+    },
+    "王冠神殿": {
+        "chinese_name": "王冠神殿",
+        "japanese_name": "カンムリ神殿",
+        "english_name": "Crown Shrine"
+    },
+    "巨人鞋底": {
+        "chinese_name": "巨人鞋底",
+        "japanese_name": "巨人の靴底",
+        "english_name": "Giant's Foot"
+    },
+    "海鸣洞窟": {
+        "chinese_name": "海鸣洞窟",
+        "japanese_name": "海鳴りの洞窟",
+        "english_name": "Roaring-Sea Caves"
+    },
+    "冻海": {
+        "chinese_name": "冻海",
+        "japanese_name": "凍てつきの海",
+        "english_name": "Frigid Sea"
+    },
+    "三岔平原": {
+        "chinese_name": "三岔平原",
+        "japanese_name": "三つまたヶ原",
+        "english_name": "Three-Point Pass"
+    },
+    "球湖湖畔": {
+        "chinese_name": "球湖湖畔",
+        "japanese_name": "ボールレイクの湖畔",
+        "english_name": "Ballimere Lake"
+    },
+    "湖畔洞窟": {
+        "chinese_name": "湖畔洞窟",
+        "japanese_name": "湖畔の洞窟",
+        "english_name": "Lakeside Cave"
+    },
+    "巨树丘陵": {
+        "chinese_name": "巨树丘陵",
+        "japanese_name": "ダイ木の丘",
+        "english_name": "Dyna Tree Hill"
+    },
+    "抉择遗迹": {
+        "chinese_name": "抉择遗迹",
+        "japanese_name": "定めの遺跡",
+        "english_name": "Split-Decision Ruins"
+    },
+    "极巨巢穴": {
+        "chinese_name": "极巨巢穴",
+        "japanese_name": "マックスダイ巣穴",
+        "english_name": "Max Lair"
+    },
+    "聚缘之岛": {
+        "chinese_name": "聚缘之岛",
+        "japanese_name": "むすびじま",
+        "english_name": "Knot Island"
+    },
+    "友谊岛": {
+        "chinese_name": "友谊岛",
+        "japanese_name": "ゆうぎじま",
+        "english_name": "Boon Island"
+    },
+    "母子岛": {
+        "chinese_name": "母子岛",
+        "japanese_name": "おやこしま",
+        "english_name": "Kin Island"
+    },
+    "冰冻岛": {
+        "chinese_name": "冰冻岛",
+        "japanese_name": "こおりしま",
+        "english_name": "Floe Island"
+    },
+    "时间之岛": {
+        "chinese_name": "时间之岛",
+        "japanese_name": "ときのしま",
+        "english_name": "Chrono Island"
+    },
+    "多幸岛": {
+        "chinese_name": "多幸岛",
+        "japanese_name": "たこうじま",
+        "english_name": "Fortune Island"
+    },
+    "探索之岛": {
+        "chinese_name": "探索之岛",
+        "japanese_name": "もとめじま",
+        "english_name": "Quest Island"
+    },
+    "肚脐岩": {
+        "chinese_name": "肚脐岩",
+        "japanese_name": "臍の岩",
+        "english_name": "Navel Rock"
+    },
+    "诞生之岛": {
+        "chinese_name": "诞生之岛",
+        "japanese_name": "誕生の島",
+        "english_name": "Birth Island"
+    },
+    "第１岛": {
+        "chinese_name": "第１岛",
+        "japanese_name": "１の岛",
+        "english_name": "One Island"
+    },
+    "第２岛": {
+        "chinese_name": "第２岛",
+        "japanese_name": "２の岛",
+        "english_name": "Two Island"
+    },
+    "第３岛": {
+        "chinese_name": "第３岛",
+        "japanese_name": "３の岛",
+        "english_name": "Three Island"
+    },
+    "第４岛": {
+        "chinese_name": "第４岛",
+        "japanese_name": "４の岛",
+        "english_name": "Four Island"
+    },
+    "第５岛": {
+        "chinese_name": "第５岛",
+        "japanese_name": "５の岛",
+        "english_name": "Five Island"
+    },
+    "第６岛": {
+        "chinese_name": "第６岛",
+        "japanese_name": "６の岛",
+        "english_name": "Six Island"
+    },
+    "第７岛": {
+        "chinese_name": "第７岛",
+        "japanese_name": "７の岛",
+        "english_name": "Seven Island"
+    },
+    "变化洞窟": {
+        "chinese_name": "变化洞窟",
+        "japanese_name": "変化の洞窟",
+        "english_name": "Altering Cave"
+    },
+    "果实森林": {
+        "chinese_name": "果实森林",
+        "japanese_name": "木の実の森",
+        "english_name": "Berry Forest"
+    },
+    "索桥": {
+        "chinese_name": "索桥",
+        "japanese_name": "絆橋",
+        "english_name": "Bond Bridge"
+    },
+    "溪谷入口": {
+        "chinese_name": "溪谷入口",
+        "japanese_name": "渓谷入口",
+        "english_name": "Canyon Entrance"
+    },
+    "歧波海湾": {
+        "chinese_name": "歧波海湾",
+        "japanese_name": "際の岬",
+        "english_name": "Cape Brink"
+    },
+    "点之穴": {
+        "chinese_name": "点之穴",
+        "japanese_name": "点の穴",
+        "english_name": "Dotted Hole"
+    },
+    "第５岛空地": {
+        "chinese_name": "第５岛空地",
+        "japanese_name": "５の島　空き地",
+        "english_name": "Five Isle Meadow"
+    },
+    "绿之步道": {
+        "chinese_name": "绿之步道",
+        "japanese_name": "緑の散歩道",
+        "english_name": "Green Path"
+    },
+    "冻瀑洞窟": {
+        "chinese_name": "冻瀑洞窟",
+        "japanese_name": "凍て滝の洞窟",
+        "english_name": "Icefall Cave"
+    },
+    "火照山道": {
+        "chinese_name": "火照山道",
+        "japanese_name": "火照りの道",
+        "english_name": "Kindle Road"
+    },
+    "不归之穴": {
+        "chinese_name": "不归之穴",
+        "japanese_name": "変えらずの穴",
+        "english_name": "Lost Cave"
+    },
+    "回忆之塔": {
+        "chinese_name": "回忆之塔",
+        "japanese_name": "思い出の塔",
+        "english_name": "Memorial Pillar"
+    },
+    "灯火山": {
+        "chinese_name": "灯火山",
+        "japanese_name": "灯山",
+        "english_name": "Mt. Ember"
+    },
+    "外岛": {
+        "chinese_name": "外岛",
+        "japanese_name": "外れの島",
+        "english_name": "Outcast Island"
+    },
+    "记号树林": {
+        "chinese_name": "记号树林",
+        "japanese_name": "印の林",
+        "english_name": "Pattern Bush"
+    },
+    "高级度假村": {
+        "chinese_name": "高级度假村",
+        "japanese_name": "ゴージャスリゾート",
+        "english_name": "Resort Gorgeous"
+    },
+    "火箭队仓库": {
+        "chinese_name": "火箭队仓库",
+        "japanese_name": "ロケット団倉庫",
+        "english_name": "Rocket Warehouse"
+    },
+    "遗迹山谷": {
+        "chinese_name": "遗迹山谷",
+        "japanese_name": "遺跡の谷",
+        "english_name": "Ruin Valley"
+    },
+    "七宝溪谷": {
+        "chinese_name": "七宝溪谷",
+        "japanese_name": "七宝渓谷",
+        "english_name": "Sevault Canyon"
+    },
+    "阿斯卡纳遗迹": {
+        "chinese_name": "阿斯卡纳遗迹",
+        "japanese_name": "アスカナ遺跡",
+        "english_name": "Tanoby Ruins"
+    },
+    "阿斯卡纳的锁": {
+        "chinese_name": "阿斯卡纳的锁",
+        "japanese_name": "アスカナの键",
+        "english_name": "Tanoby Key"
+    },
+    "宝物海滩": {
+        "chinese_name": "宝物海滩",
+        "japanese_name": "宝の浜",
+        "english_name": "Treasure Beach"
+    },
+    "训练家之塔": {
+        "chinese_name": "训练家之塔",
+        "japanese_name": "トレーナータワー",
+        "english_name": "Trainer Tower"
+    },
+    "水之迷宫": {
+        "chinese_name": "水之迷宫",
+        "japanese_name": "水の迷路",
+        "english_name": "Water Labyrinth"
+    },
+    "水之步道": {
+        "chinese_name": "水之步道",
+        "japanese_name": "水の散歩道",
+        "english_name": "Water Path"
+    }
+}
