@@ -8,12 +8,63 @@ import json
 import time
 import random
 import argparse
+from tqdm import tqdm
 
-
-fr = open("pokemon_name.csv", "r", encoding='utf-8')
-fr2 = open("pokemon_detail.json", "r", encoding='utf-8')
-pokemon = json.load(fr2)
+fr = open("./data/pokemon_detail.json", "r", encoding='utf-8')
+fr2 = open("./data/pokemon_detail_1.json", "r", encoding='utf-8')
+pokemon = json.load(fr)
+new_pokemon = json.load(fr2)
+fr.close()
 fr2.close()
+
+shuxing = ["一般", "格斗", "飞行", "毒", "地面", "岩石", "虫", "幽灵",
+           "钢", "火", "水", "草", "电", "超能力", "冰", "龙", "恶", "妖精"]
+with tqdm(total=len(pokemon)) as qbar:
+    for name in pokemon:
+        if name in new_pokemon:
+            qbar.update(1)
+            continue
+        temp = pokemon[name]
+        url = url = "http://wiki.52poke.com/index.php?title=" + \
+            name + "&action=edit"
+        browser = webdriver.Chrome()
+        browser.get(url)
+        xpath = '//*[@id="wpTextbox1"]'
+        try:
+            elements = WebDriverWait(browser, 20).until(
+                EC.presence_of_all_elements_located((By.XPATH, xpath)))
+        except TimeoutException:
+            elements = []
+        for element in elements:
+            data = element.text
+            start = data.find("===属性相性===")
+            start = data.find('<div class="tabbertab" title="一般">', start)
+            if start == -1:
+                temp["属性相性"] = None
+            end = data.find('</div>', start)
+            data = data[start:end]
+            shuxingxiangxing = {}
+            for item in shuxing:
+                start = data.find(item + "=")
+                if item != "妖精":
+                    end = data.find("|", start)
+                else:
+                    end = data.find("}}", start)
+                try:
+                    shuxingxiangxing[item] = float(
+                        data[start + len(item) + 1:end])
+                except ValueError:
+                    shuxingxiangxing[item] = None
+        temp["属性相性"] = shuxingxiangxing
+        new_pokemon[name] = temp
+        fw = open('./data/pokemon_detail_1.json', 'w', encoding='utf-8')
+        fw.write(json.dumps(new_pokemon, ensure_ascii=False))
+        fw.close()
+        qbar.update(1)
+        browser.close()
+        time.sleep(5)
+
+"""
 cnt = 0
 for line in fr:
     cnt += 1
@@ -105,3 +156,4 @@ for line in fr:
     browser.close()
     time.sleep(10)
 fr.close()
+"""
