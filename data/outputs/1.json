@@ -221,14 +221,6 @@
             }, {
                 "type": "T",
                 "name": "人",
-                "value": "紫苑镇",
-                "start": 483,
-                "end": 486,
-                "attributes": [],
-                "id": 28
-            }, {
-                "type": "T",
-                "name": "人",
                 "value": "富士老人",
                 "start": 493,
                 "end": 497,
@@ -1867,14 +1859,6 @@
                 "end": 3944,
                 "attributes": [],
                 "id": 235
-            }, {
-                "type": "T",
-                "name": "人",
-                "value": "石英高原",
-                "start": 3996,
-                "end": 4000,
-                "attributes": [],
-                "id": 236
             }, {
                 "type": "T",
                 "name": "人",
@@ -7021,14 +7005,6 @@
                 "id": 882
             }, {
                 "type": "T",
-                "name": "地点",
-                "value": "坂木",
-                "start": 14875,
-                "end": 14877,
-                "attributes": [],
-                "id": 883
-            }, {
-                "type": "T",
                 "name": "人",
                 "value": "赤红",
                 "start": 14878,
@@ -8557,14 +8533,6 @@
                 "id": 1075
             }, {
                 "type": "T",
-                "name": "地点",
-                "value": "坂木",
-                "start": 17911,
-                "end": 17913,
-                "attributes": [],
-                "id": 1076
-            }, {
-                "type": "T",
                 "name": "人",
                 "value": "夏伯",
                 "start": 17936,
@@ -9811,14 +9779,6 @@
                 "end": 21089,
                 "attributes": [],
                 "id": 1232
-            }, {
-                "type": "T",
-                "name": "精灵",
-                "value": "小智",
-                "start": 21095,
-                "end": 21097,
-                "attributes": [],
-                "id": 1233
             }, {
                 "type": "T",
                 "name": "人",
@@ -13660,12 +13620,6 @@
                 "arg2": "Arg2"
             }, {
                 "name": "位于",
-                "from": 882,
-                "to": 883,
-                "arg1": "Arg1",
-                "arg2": "Arg2"
-            }, {
-                "name": "位于",
                 "from": 888,
                 "to": 890,
                 "arg1": "Arg1",
@@ -13908,12 +13862,6 @@
                 "name": "挑战",
                 "from": 1075,
                 "to": 1074,
-                "arg1": "Arg1",
-                "arg2": "Arg2"
-            }, {
-                "name": "位于",
-                "from": 1074,
-                "to": 1076,
                 "arg1": "Arg1",
                 "arg2": "Arg2"
             }, {
